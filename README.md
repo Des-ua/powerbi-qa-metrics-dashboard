@@ -16,7 +16,7 @@ cleaning decisions and the report are my own work.
 | `QA_Dashboard.pbix` | The Power BI report |
 | `bugs.csv` | 263 raw bug reports |
 | `test_runs.csv` | 794 raw test-case executions |
-| `dashboard.png` | Screenshot of the report page |
+| `dashboard.jpg` | Screenshot of the report page |
 
 ---
 
