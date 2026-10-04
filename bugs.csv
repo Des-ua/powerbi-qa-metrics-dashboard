@@ -1,0 +1,264 @@
+﻿bug_id,summary,module,severity,priority,status,reported_date,closed_date,reporter,assignee,environment,found_in_build
+BUG-1001,Refund amount rounded down,Payments,Minor,P3,Reopened,15/05/2026,,J. Zielinski,P. Nowak,Chrome / Windows,1.4.0
+BUG-1002,Avatar upload fails over 2 MB,User Account,Major,P2,Open,05.05.2026,,P. Nowak,M. Wisniewska,Firefox / Windows,1.9.2
+BUG-1003,Order confirmed with empty cart,Checkout,Major,P2,Verified,2026-04-09,2026-05-14,A. Kowalska,P. Nowak,Edge / Windows,1.5.0
+BUG-1004,Price not updated after currency switch,Cart,Major,P2,Closed,09/07/2026,09/08/2026,A. Kowalska,M. Wisniewska,Edge / Windows,1.7.1
+BUG-1005,Order total ignores discount code,Checkout,Minor,P3,Closed,10.09.2026,03.10.2026,M. Wisniewska,P. Nowak,Edge / Windows,1.4.0
+BUG-1006,3-D Secure loop on retry,Payments,Major,P2,Verified,2026-05-04,2026-06-07,D. Yanovskyi,P. Nowak,Chrome / Windows,1.6.2
+BUG-1007,Duplicate account with same email,user account,minor,P3,closed,05/05/2026,17/06/2026,P. Nowak,P. Nowak,Firefox / Windows,1.7.1
+BUG-1008,Quantity resets after refresh,Cart,Trivial,P4,In Progress,26.05.2026,,D. Yanovskyi,,Chrome / Android,1.4.0
+BUG-1009,Pickup point list empty,Shipping,Minor,P2,Rejected,2026-08-11,2026-08-15,P. Nowak,D. Yanovskyi,Safari / iOS,1.4.0
+BUG-1010,Diacritics break the query,Search,Major,P2,Open,17/04/2026,,P. Nowak,A. Kowalska,Chrome / Windows,1.6.0
+BUG-1011,Wrong VAT on invoice,CHECKOUT,TRIVIAL,P4,IN PROGRESS,21.05.2026,,D. Yanovskyi,A. Kowalska,Safari / iOS,1.4.2
+BUG-1012,Gallery shows wrong image,Product Page,Trivial,P4,Open,2026-07-02,,J. Zielinski,D. Yanovskyi,Edge / Windows,1.6.1
+BUG-1013,Email change not confirmed,  User Account ,  Minor ,P3,  In Progress ,27/07/2026,,P. Nowak,D. Yanovskyi,Safari / iOS,1.8.0
+BUG-1014,Estimated date in the past,shipping,major,P2,open,12.07.2026,,D. Yanovskyi,M. Wisniewska,Firefox / Windows,1.6.1
+BUG-1015,Delivery cost zero for heavy parcel,Shipping,Major,P2,Verified,2026-06-03,2026-07-12,J. Zielinski,J. Zielinski,Edge / Windows,1.8.1
+BUG-1016,Checkout freezes on step 3,Checkout,Trivial,P4,Reopened,28/07/2026,,J. Zielinski,,Firefox / Windows,1.7.1
+BUG-1017,Role permissions not applied,Admin Panel,Major,P2,Verified,18.05.2026,15.06.2026,M. Wisniewska,J. Zielinski,Chrome / Windows,1.9.1
+BUG-1018,Out-of-stock item can be added,Cart,Minor,P2,Verified,2026-07-27,2026-09-01,M. Wisniewska,M. Wisniewska,Edge / Windows,1.5.1
+BUG-1019,Tracking number not generated,Shipping,Minor,P3,In Progress,08/05/2026,,D. Yanovskyi,M. Wisniewska,Chrome / Android,1.7.1
+BUG-1020,Password reset link expires instantly,User Account,Critical,P1,Closed,12.07.2026,24.08.2026,D. Yanovskyi,D. Yanovskyi,Safari / iOS,1.7.0
+BUG-1021,Order history empty for old orders,user account,trivial,P4,closed,2026-09-17,2026-09-19,J. Zielinski,A. Kowalska,Chrome / Windows,1.8.0
+BUG-1022,Quantity resets after refresh,CART,MAJOR,P2,CLOSED,07/09/2026,12/10/2026,A. Kowalska,J. Zielinski,Chrome / Android,1.6.2
+BUG-1023,Bulk edit saves only first row,Admin Panel,Major,P2,Open,13.06.2026,,J. Zielinski,P. Nowak,Chrome / Windows,1.4.1
+BUG-1024,Related products duplicated,Product Page,Major,P2,Closed,2026-05-26,2026-06-04,A. Kowalska,,Safari / iOS,1.7.0
+BUG-1025,Estimated date in the past,Shipping,Critical,P1,Verified,20/03/2026,03/05/2026,P. Nowak,A. Kowalska,Safari / iOS,1.7.2
+BUG-1026,No results for valid SKU,  Search ,  Major ,P2,  Closed ,18.09.2026,07.10.2026,M. Wisniewska,M. Wisniewska,Edge / Windows,1.8.0
+BUG-1027,Sorting by price is reversed,Search,Minor,P3,Closed,2026-04-13,2026-05-21,P. Nowak,M. Wisniewska,Chrome / Windows,1.6.1
+BUG-1028,Sorting by price is reversed,search,trivial,P4,closed,17/09/2026,03/10/2026,J. Zielinski,P. Nowak,Edge / Windows,1.8.2
+BUG-1029,Search bar loses focus on mobile,Search,Major,P2,Verified,06.07.2026,23.07.2026,A. Kowalska,P. Nowak,Chrome / Windows,1.5.0
+BUG-1030,Audit log timestamps in wrong zone,Admin Panel,Minor,P3,Open,2026-03-24,,M. Wisniewska,A. Kowalska,Firefox / Windows,1.4.2
+BUG-1031,Description truncated on mobile,Product Page,Critical,P1,Reopened,13/09/2026,,P. Nowak,A. Kowalska,Firefox / Windows,1.6.2
+BUG-1032,Related products duplicated,Product Page,Major,P2,Reopened,27.07.2026,,A. Kowalska,,Safari / iOS,1.5.0
+BUG-1033,Description truncated on mobile,PRODUCT PAGE,MAJOR,P2,VERIFIED,2026-07-19,2026-08-12,M. Wisniewska,P. Nowak,Chrome / Windows,1.7.0
+BUG-1034,Payment succeeds but order stays unpaid,Payments,Trivial,P4,Verified,21/05/2026,22/05/2026,J. Zielinski,J. Zielinski,Chrome / Windows,1.7.2
+BUG-1035,Pickup point list empty,shipping,major,P2,in progress,25.08.2026,,M. Wisniewska,A. Kowalska,Safari / iOS,1.6.0
+BUG-1036,Email change not confirmed,User Account,Major,P2,Reopened,2026-09-06,,M. Wisniewska,D. Yanovskyi,Safari / iOS,1.6.0
+BUG-1037,Dashboard counters out of date,Admin Panel,Minor,P3,Closed,29/07/2026,29/08/2026,D. Yanovskyi,A. Kowalska,Firefox / Windows,1.8.1
+BUG-1038,Currency mismatch in receipt,Payments,Major,P2,Open,06.06.2026,,P. Nowak,A. Kowalska,Chrome / Android,1.8.0
+BUG-1039,Password reset link expires instantly,  User Account ,  Trivial ,P4,  Rejected ,2026-03-04,2026-04-04,M. Wisniewska,M. Wisniewska,Chrome / Windows,1.5.2
+BUG-1040,Tracking number not generated,Shipping,Critical,P1,Rejected,04/04/2026,17/04/2026,P. Nowak,,Firefox / Windows,1.4.1
+BUG-1041,Price not updated after currency switch,Cart,Major,P2,Closed,24.03.2026,12.04.2026,P. Nowak,J. Zielinski,Chrome / Android,1.8.0
+BUG-1042,Gallery shows wrong image,product page,minor,P3,closed,2026-09-16,2026-10-28,J. Zielinski,P. Nowak,Edge / Windows,1.4.2
+BUG-1043,Checkout freezes on step 3,Checkout,Major,P2,Reopened,03/07/2026,,J. Zielinski,D. Yanovskyi,Chrome / Windows,1.7.2
+BUG-1044,Dashboard counters out of date,ADMIN PANEL,MINOR,P3,REOPENED,12.09.2026,,P. Nowak,A. Kowalska,Chrome / Windows,1.5.0
+BUG-1045,Bulk edit saves only first row,Admin Panel,Minor,P1,Closed,2026-06-07,2026-06-15,M. Wisniewska,D. Yanovskyi,Safari / iOS,1.5.1
+BUG-1046,Duplicate account with same email,User Account,Minor,P3,Rejected,14/03/2026,27/04/2026,D. Yanovskyi,J. Zielinski,Chrome / Windows,1.5.0
+BUG-1047,Filters reset on page 2,Search,Minor,P3,In Progress,13.08.2026,,P. Nowak,J. Zielinski,Chrome / Android,1.9.2
+BUG-1048,Guest checkout loses address,Checkout,Minor,P3,Open,2026-03-02,,D. Yanovskyi,,Chrome / Android,1.9.2
+BUG-1049,Audit log timestamps in wrong zone,admin panel,minor,P3,closed,04/07/2026,10/07/2026,M. Wisniewska,P. Nowak,Edge / Windows,1.5.0
+BUG-1050,No results for valid SKU,Search,Minor,P3,Closed,22.08.2026,12.09.2026,A. Kowalska,J. Zielinski,Firefox / Windows,1.7.0
+BUG-1051,Payment succeeds but order stays unpaid,Payments,Minor,P3,Closed,2026-09-13,2026-10-08,M. Wisniewska,J. Zielinski,Safari / iOS,1.8.1
+BUG-1052,Stock label contradicts availability,  Product Page ,  Minor ,P3,  Open ,03/08/2026,,A. Kowalska,P. Nowak,Firefox / Windows,1.7.1
+BUG-1053,Tracking number not generated,Shipping,Major,P2,Verified,07.08.2026,14.08.2026,J. Zielinski,M. Wisniewska,Firefox / Windows,1.8.2
+BUG-1054,Refund amount rounded down,Payments,Major,P1,Open,2026-08-07,,D. Yanovskyi,A. Kowalska,Chrome / Windows,1.6.2
+BUG-1055,Guest checkout loses address,CHECKOUT,TRIVIAL,P4,REOPENED,19/06/2026,,D. Yanovskyi,J. Zielinski,Edge / Windows,1.9.1
+BUG-1056,Order confirmed with empty cart,checkout,blocker,P1,reopened,28.08.2026,,P. Nowak,,Firefox / Windows,1.7.2
+BUG-1057,Dashboard counters out of date,Admin Panel,Minor,P3,In Progress,2026-07-26,,M. Wisniewska,D. Yanovskyi,Firefox / Windows,1.4.0
+BUG-1058,Search bar loses focus on mobile,Search,Minor,P3,Closed,01/09/2026,30/09/2026,D. Yanovskyi,D. Yanovskyi,Firefox / Windows,1.8.0
+BUG-1059,3-D Secure loop on retry,Payments,Minor,P3,Open,27.03.2026,,A. Kowalska,A. Kowalska,Firefox / Windows,1.4.0
+BUG-1060,Pickup point list empty,Shipping,Major,P2,Rejected,2026-04-27,2026-05-25,P. Nowak,M. Wisniewska,Safari / iOS,1.4.2
+BUG-1061,No results for valid SKU,Search,Critical,P1,Rejected,04/05/2026,24/05/2026,P. Nowak,J. Zielinski,Edge / Windows,1.6.2
+BUG-1062,Dashboard counters out of date,Admin Panel,Minor,P3,Open,04.03.2026,,P. Nowak,A. Kowalska,Edge / Windows,1.6.0
+BUG-1063,Email change not confirmed,user account,critical,P1,reopened,2026-03-31,,P. Nowak,P. Nowak,Firefox / Windows,1.6.0
+BUG-1064,Sorting by price is reversed,Search,Major,P2,Closed,05/07/2026,08/07/2026,M. Wisniewska,,Safari / iOS,1.7.1
+BUG-1065,Delivery cost zero for heavy parcel,  Shipping ,  Minor ,P3,  Closed ,08.03.2026,14.03.2026,J. Zielinski,A. Kowalska,Chrome / Android,1.8.0
+BUG-1066,Wrong VAT on invoice,CHECKOUT,MAJOR,P2,IN PROGRESS,2026-04-18,,A. Kowalska,P. Nowak,Chrome / Android,1.9.0
+BUG-1067,Order history empty for old orders,User Account,Minor,P3,In Progress,15/08/2026,,A. Kowalska,A. Kowalska,Edge / Windows,1.8.1
+BUG-1068,Gallery shows wrong image,Product Page,Minor,P3,In Progress,10.08.2026,,J. Zielinski,P. Nowak,Firefox / Windows,1.7.1
+BUG-1069,Order total ignores discount code,Checkout,Blocker,P1,In Progress,2026-03-27,,P. Nowak,J. Zielinski,Chrome / Windows,1.9.1
+BUG-1070,Email change not confirmed,user account,trivial,P4,closed,11/09/2026,05/10/2026,M. Wisniewska,J. Zielinski,Safari / iOS,1.7.1
+BUG-1071,Diacritics break the query,Search,Minor,P3,Rejected,26.04.2026,04.06.2026,M. Wisniewska,D. Yanovskyi,Firefox / Windows,1.9.2
+BUG-1072,Order history empty for old orders,User Account,Minor,P2,Closed,2026-06-15,2026-07-23,P. Nowak,,Edge / Windows,1.7.0
+BUG-1073,Filters reset on page 2,Search,Major,P2,Closed,17/08/2026,07/09/2026,P. Nowak,D. Yanovskyi,Safari / iOS,1.6.2
+BUG-1074,Estimated date in the past,Shipping,Major,P2,Closed,13.07.2026,24.07.2026,P. Nowak,D. Yanovskyi,Firefox / Windows,1.4.1
+BUG-1075,Address line 2 dropped,Shipping,Major,P2,Reopened,2026-05-07,,P. Nowak,P. Nowak,Firefox / Windows,1.4.1
+BUG-1076,Password reset link expires instantly,User Account,Blocker,P1,Closed,10/09/2026,08/10/2026,M. Wisniewska,P. Nowak,Edge / Windows,1.6.1
+BUG-1077,Related products duplicated,PRODUCT PAGE,MAJOR,P2,IN PROGRESS,25.07.2026,,D. Yanovskyi,D. Yanovskyi,Chrome / Android,1.7.2
+BUG-1078,Guest checkout loses address,  Checkout ,  Minor ,P3,  Verified ,2026-07-21,2026-07-30,D. Yanovskyi,P. Nowak,Chrome / Windows,1.7.2
+BUG-1079,Checkout freezes on step 3,Checkout,Major,P2,In Progress,23/07/2026,,J. Zielinski,D. Yanovskyi,Chrome / Android,1.8.1
+BUG-1080,Price not updated after currency switch,Cart,Major,P2,In Progress,11.08.2026,,J. Zielinski,,Edge / Windows,1.8.0
+BUG-1081,Order history empty for old orders,User Account,Minor,P2,In Progress,2026-03-16,,J. Zielinski,P. Nowak,Chrome / Windows,1.5.2
+BUG-1082,Price not updated after currency switch,Cart,Critical,P1,Verified,30/04/2026,24/05/2026,P. Nowak,M. Wisniewska,Chrome / Windows,1.4.2
+BUG-1083,Refund amount rounded down,Payments,Trivial,P4,Rejected,29.07.2026,12.09.2026,D. Yanovskyi,P. Nowak,Safari / iOS,1.8.0
+BUG-1084,Order total ignores discount code,checkout,minor,P3,rejected,2026-04-21,2026-05-31,D. Yanovskyi,D. Yanovskyi,Chrome / Android,1.7.1
+BUG-1085,Duplicate account with same email,User Account,Major,P2,Verified,08/06/2026,16/06/2026,A. Kowalska,A. Kowalska,Chrome / Android,1.5.1
+BUG-1086,Bulk edit saves only first row,Admin Panel,Minor,P3,Closed,11.07.2026,31.07.2026,D. Yanovskyi,M. Wisniewska,Chrome / Android,1.9.2
+BUG-1087,Refund amount rounded down,Payments,Trivial,P4,Reopened,2026-07-30,,J. Zielinski,A. Kowalska,Firefox / Windows,1.7.0
+BUG-1088,Stock label contradicts availability,PRODUCT PAGE,TRIVIAL,P4,IN PROGRESS,13/04/2026,,J. Zielinski,,Safari / iOS,1.9.2
+BUG-1089,Audit log timestamps in wrong zone,Admin Panel,Major,P2,Closed,20.04.2026,12.05.2026,P. Nowak,P. Nowak,Safari / iOS,1.7.2
+BUG-1090,Refund amount rounded down,Payments,Minor,P2,In Progress,2026-08-09,,D. Yanovskyi,J. Zielinski,Chrome / Android,1.8.1
+BUG-1091,Dashboard counters out of date,admin panel,major,P2,reopened,21/07/2026,,D. Yanovskyi,A. Kowalska,Firefox / Windows,1.6.0
+BUG-1092,Duplicate account with same email,User Account,Trivial,P4,Closed,12.07.2026,09.08.2026,D. Yanovskyi,A. Kowalska,Firefox / Windows,1.9.1
+BUG-1093,Sorting by price is reversed,Search,Major,P2,Closed,2026-04-26,2026-05-19,J. Zielinski,D. Yanovskyi,Chrome / Android,1.7.1
+BUG-1094,Removing item clears whole cart,Cart,Major,P2,Reopened,05/06/2026,,A. Kowalska,P. Nowak,Firefox / Windows,1.9.0
+BUG-1095,Payment succeeds but order stays unpaid,Payments,Critical,P1,Closed,17.06.2026,30.07.2026,D. Yanovskyi,J. Zielinski,Chrome / Windows,1.7.1
+BUG-1096,3-D Secure loop on retry,Payments,Minor,P3,Reopened,2026-05-31,,D. Yanovskyi,,Chrome / Windows,1.8.1
+BUG-1097,Pickup point list empty,Shipping,Minor,P3,Closed,08/03/2026,21/04/2026,A. Kowalska,A. Kowalska,Edge / Windows,1.4.2
+BUG-1098,Search bar loses focus on mobile,search,minor,P3,closed,19.06.2026,20.07.2026,A. Kowalska,D. Yanovskyi,Chrome / Android,1.4.2
+BUG-1099,Duplicate account with same email,USER ACCOUNT,BLOCKER,P1,CLOSED,2026-07-30,2026-08-09,A. Kowalska,P. Nowak,Edge / Windows,1.4.0
+BUG-1100,Guest checkout loses address,Checkout,Trivial,P4,Closed,15/04/2026,25/04/2026,D. Yanovskyi,J. Zielinski,Chrome / Windows,1.7.1
+BUG-1101,Order history empty for old orders,User Account,Minor,P3,Verified,12.05.2026,18.06.2026,J. Zielinski,A. Kowalska,Edge / Windows,1.6.0
+BUG-1102,Order history empty for old orders,User Account,Minor,P3,Closed,2026-06-18,2026-07-18,M. Wisniewska,D. Yanovskyi,Chrome / Windows,1.8.0
+BUG-1103,No results for valid SKU,Search,Minor,P3,In Progress,15/05/2026,,D. Yanovskyi,A. Kowalska,Firefox / Windows,1.9.1
+BUG-1104,Checkout freezes on step 3,  Checkout ,  Trivial ,P4,  Closed ,17.04.2026,26.04.2026,P. Nowak,,Chrome / Android,1.4.1
+BUG-1105,Review count mismatched,product page,major,P2,in progress,2026-03-10,,J. Zielinski,M. Wisniewska,Chrome / Android,1.9.2
+BUG-1106,No results for valid SKU,Search,Minor,P3,Verified,10/07/2026,16/07/2026,J. Zielinski,J. Zielinski,Edge / Windows,1.6.2
+BUG-1107,Export CSV misses last record,Admin Panel,Minor,P3,Open,15.06.2026,,D. Yanovskyi,A. Kowalska,Safari / iOS,1.4.1
+BUG-1108,Tracking number not generated,Shipping,Major,P4,Closed,2026-05-14,2026-06-19,P. Nowak,D. Yanovskyi,Chrome / Windows,1.9.2
+BUG-1109,Estimated date in the past,Shipping,Trivial,P4,Closed,14/07/2026,17/08/2026,P. Nowak,P. Nowak,Chrome / Windows,1.7.2
+BUG-1110,Dashboard counters out of date,ADMIN PANEL,TRIVIAL,P4,CLOSED,19.05.2026,16.06.2026,J. Zielinski,P. Nowak,Chrome / Windows,1.5.2
+BUG-1111,Related products duplicated,Product Page,Minor,P3,Verified,2026-04-29,2026-05-24,P. Nowak,A. Kowalska,Firefox / Windows,1.7.1
+BUG-1112,Removing item clears whole cart,cart,trivial,P4,closed,27/05/2026,07/06/2026,P. Nowak,,Edge / Windows,1.7.0
+BUG-1113,Currency mismatch in receipt,Payments,Minor,P3,Verified,11.08.2026,25.08.2026,J. Zielinski,D. Yanovskyi,Safari / iOS,1.4.0
+BUG-1114,Estimated date in the past,Shipping,Minor,P3,In Progress,2026-09-01,,M. Wisniewska,A. Kowalska,Safari / iOS,1.7.0
+BUG-1115,Tracking number not generated,Shipping,Major,P2,Closed,18/05/2026,03/06/2026,J. Zielinski,J. Zielinski,Chrome / Windows,1.4.2
+BUG-1116,Saved card not charged,Payments,Minor,P3,Open,10.05.2026,,A. Kowalska,P. Nowak,Safari / iOS,1.6.1
+BUG-1117,Refund amount rounded down,  Payments ,  Major ,P4,  Verified ,2026-08-06,2026-09-08,P. Nowak,A. Kowalska,Firefox / Windows,1.8.2
+BUG-1118,Email change not confirmed,User Account,Critical,P1,Reopened,20/08/2026,,P. Nowak,P. Nowak,Edge / Windows,1.7.1
+BUG-1119,Order history empty for old orders,user account,trivial,P4,closed,14.04.2026,21.05.2026,M. Wisniewska,P. Nowak,Firefox / Windows,1.6.1
+BUG-1120,Bulk edit saves only first row,Admin Panel,Minor,P3,Open,2026-04-21,,P. Nowak,,Safari / iOS,1.7.0
+BUG-1121,Wrong VAT on invoice,CHECKOUT,MAJOR,P2,CLOSED,14/05/2026,29/05/2026,A. Kowalska,D. Yanovskyi,Edge / Windows,1.6.2
+BUG-1122,Estimated date in the past,Shipping,Major,P2,Verified,10.07.2026,06.08.2026,D. Yanovskyi,P. Nowak,Chrome / Windows,1.7.1
+BUG-1123,Removing item clears whole cart,Cart,Blocker,P1,Closed,2026-06-28,2026-07-03,M. Wisniewska,P. Nowak,Chrome / Android,1.9.0
+BUG-1124,Delivery cost zero for heavy parcel,Shipping,Minor,P3,Closed,12/04/2026,16/04/2026,D. Yanovskyi,P. Nowak,Safari / iOS,1.8.2
+BUG-1125,Out-of-stock item can be added,Cart,Minor,P3,Open,08.05.2026,,P. Nowak,J. Zielinski,Edge / Windows,1.9.2
+BUG-1126,Description truncated on mobile,product page,major,P3,closed,2026-08-19,2026-09-11,M. Wisniewska,P. Nowak,Chrome / Android,1.5.0
+BUG-1127,Order confirmed with empty cart,Checkout,Minor,P3,In Progress,13/07/2026,,D. Yanovskyi,A. Kowalska,Safari / iOS,1.8.2
+BUG-1128,Order confirmed with empty cart,Checkout,Major,P2,Closed,19.08.2026,30.08.2026,A. Kowalska,,Firefox / Windows,1.7.1
+BUG-1129,Related products duplicated,Product Page,Minor,P3,Reopened,2026-07-31,,A. Kowalska,M. Wisniewska,Safari / iOS,1.7.1
+BUG-1130,Audit log timestamps in wrong zone,  Admin Panel ,  Major ,P2,  In Progress ,06/03/2026,,D. Yanovskyi,M. Wisniewska,Safari / iOS,1.6.2
+BUG-1131,Review count mismatched,Product Page,Minor,P3,Verified,11.06.2026,28.06.2026,D. Yanovskyi,M. Wisniewska,Chrome / Windows,1.6.0
+BUG-1132,Audit log timestamps in wrong zone,ADMIN PANEL,MINOR,P3,VERIFIED,2026-05-08,2026-06-16,M. Wisniewska,J. Zielinski,Edge / Windows,1.7.0
+BUG-1133,Quantity resets after refresh,cart,trivial,P4,verified,08/09/2026,04/10/2026,M. Wisniewska,D. Yanovskyi,Edge / Windows,1.5.0
+BUG-1134,Currency mismatch in receipt,Payments,Minor,P3,Reopened,12.08.2026,,J. Zielinski,A. Kowalska,Chrome / Windows,1.6.1
+BUG-1135,Description truncated on mobile,Product Page,Blocker,P1,Rejected,2026-06-18,2026-07-26,J. Zielinski,M. Wisniewska,Safari / iOS,1.4.2
+BUG-1136,Stock label contradicts availability,Product Page,Major,P2,Verified,02/03/2026,30/03/2026,J. Zielinski,,Chrome / Android,1.7.2
+BUG-1137,Payment succeeds but order stays unpaid,Payments,Trivial,P4,Open,15.05.2026,,D. Yanovskyi,J. Zielinski,Safari / iOS,1.4.0
+BUG-1138,Gallery shows wrong image,Product Page,Major,P2,Closed,2026-03-21,2026-04-05,D. Yanovskyi,D. Yanovskyi,Edge / Windows,1.9.0
+BUG-1139,Currency mismatch in receipt,Payments,Blocker,P1,Open,05/05/2026,,A. Kowalska,P. Nowak,Chrome / Android,1.4.1
+BUG-1140,Removing item clears whole cart,cart,minor,P3,verified,19.03.2026,26.03.2026,D. Yanovskyi,M. Wisniewska,Firefox / Windows,1.6.0
+BUG-1141,Payment succeeds but order stays unpaid,Payments,Major,P2,Reopened,2026-09-13,,D. Yanovskyi,D. Yanovskyi,Safari / iOS,1.4.2
+BUG-1142,Export CSV misses last record,Admin Panel,Minor,P3,In Progress,27/04/2026,,A. Kowalska,M. Wisniewska,Safari / iOS,1.4.2
+BUG-1143,Estimated date in the past,SHIPPING,MINOR,P3,VERIFIED,11.06.2026,17.06.2026,A. Kowalska,A. Kowalska,Chrome / Android,1.6.1
+BUG-1144,Quantity resets after refresh,Cart,Minor,P1,In Progress,2026-05-15,,M. Wisniewska,,Edge / Windows,1.8.1
+BUG-1145,Out-of-stock item can be added,Cart,Major,P2,Reopened,24/08/2026,,M. Wisniewska,A. Kowalska,Chrome / Windows,1.4.0
+BUG-1146,Estimated date in the past,Shipping,Major,P2,Closed,11.04.2026,21.04.2026,A. Kowalska,P. Nowak,Edge / Windows,1.9.0
+BUG-1147,Sorting by price is reversed,search,minor,P3,reopened,2026-05-03,,A. Kowalska,P. Nowak,Edge / Windows,1.9.2
+BUG-1148,Description truncated on mobile,Product Page,Minor,P3,Open,14/09/2026,,J. Zielinski,A. Kowalska,Edge / Windows,1.6.0
+BUG-1149,Dashboard counters out of date,Admin Panel,Minor,P3,Verified,09.06.2026,20.07.2026,P. Nowak,D. Yanovskyi,Firefox / Windows,1.9.1
+BUG-1150,Email change not confirmed,User Account,Critical,P1,Rejected,2026-07-29,2026-08-23,A. Kowalska,A. Kowalska,Safari / iOS,1.7.1
+BUG-1151,3-D Secure loop on retry,Payments,Trivial,P4,Closed,21/06/2026,14/07/2026,D. Yanovskyi,J. Zielinski,Safari / iOS,1.4.2
+BUG-1152,Sorting by price is reversed,Search,Major,P2,Verified,20.07.2026,29.07.2026,P. Nowak,,Safari / iOS,1.7.0
+BUG-1153,Email change not confirmed,User Account,Trivial,P2,Closed,2026-09-15,2026-10-18,M. Wisniewska,A. Kowalska,Firefox / Windows,1.5.1
+BUG-1154,Wrong VAT on invoice,CHECKOUT,MINOR,P3,REOPENED,05/06/2026,,M. Wisniewska,P. Nowak,Edge / Windows,1.8.0
+BUG-1155,Sorting by price is reversed,Search,Minor,P3,Closed,04.03.2026,23.03.2026,A. Kowalska,M. Wisniewska,Safari / iOS,1.7.2
+BUG-1156,3-D Secure loop on retry,  Payments ,  Critical ,P1,  Closed ,2026-07-30,2026-08-07,J. Zielinski,D. Yanovskyi,Firefox / Windows,1.8.2
+BUG-1157,Cart badge shows stale count,Cart,Major,P2,Closed,01/06/2026,01/07/2026,D. Yanovskyi,P. Nowak,Chrome / Android,1.4.2
+BUG-1158,Dashboard counters out of date,Admin Panel,Critical,P1,Closed,04.06.2026,16.07.2026,P. Nowak,A. Kowalska,Firefox / Windows,1.5.2
+BUG-1159,Export CSV misses last record,Admin Panel,Minor,P3,Closed,2026-08-23,2026-09-13,A. Kowalska,J. Zielinski,Chrome / Android,1.4.2
+BUG-1160,Role permissions not applied,Admin Panel,Major,P2,Reopened,11/03/2026,,A. Kowalska,,Edge / Windows,1.7.1
+BUG-1161,Address line 2 dropped,shipping,major,P2,reopened,27.08.2026,,P. Nowak,M. Wisniewska,Firefox / Windows,1.5.0
+BUG-1162,Order total ignores discount code,Checkout,Minor,P1,Open,2026-05-09,,P. Nowak,J. Zielinski,Chrome / Windows,1.5.1
+BUG-1163,Refund amount rounded down,Payments,Major,P2,Closed,06/09/2026,11/10/2026,P. Nowak,P. Nowak,Chrome / Windows,1.6.2
+BUG-1164,Diacritics break the query,Search,Trivial,P4,Closed,21.05.2026,06.06.2026,M. Wisniewska,J. Zielinski,Chrome / Windows,1.4.0
+BUG-1165,Bulk edit saves only first row,ADMIN PANEL,MINOR,P3,OPEN,2026-06-11,,D. Yanovskyi,J. Zielinski,Chrome / Android,1.6.1
+BUG-1166,Order history empty for old orders,User Account,Minor,P3,Closed,13/08/2026,12/09/2026,A. Kowalska,J. Zielinski,Chrome / Windows,1.5.0
+BUG-1167,Guest checkout loses address,Checkout,Minor,P3,Closed,16.08.2026,05.09.2026,P. Nowak,M. Wisniewska,Edge / Windows,1.9.1
+BUG-1168,Saved card not charged,payments,major,P2,closed,2026-08-19,2026-09-23,D. Yanovskyi,,Edge / Windows,1.9.1
+BUG-1169,Payment succeeds but order stays unpaid,  Payments ,  Minor ,P3,  Closed ,18/04/2026,20/05/2026,P. Nowak,P. Nowak,Safari / iOS,1.4.0
+BUG-1170,Duplicate account with same email,User Account,Minor,P3,Closed,27.07.2026,07.08.2026,D. Yanovskyi,A. Kowalska,Chrome / Windows,1.4.2
+BUG-1171,Filters reset on page 2,Search,Minor,P2,Closed,2026-04-03,2026-05-02,J. Zielinski,D. Yanovskyi,Chrome / Android,1.7.2
+BUG-1172,Description truncated on mobile,Product Page,Minor,P3,Rejected,03/04/2026,07/05/2026,D. Yanovskyi,P. Nowak,Chrome / Windows,1.9.0
+BUG-1173,Order history empty for old orders,User Account,Minor,P3,Closed,19.06.2026,14.07.2026,A. Kowalska,J. Zielinski,Chrome / Android,1.4.1
+BUG-1174,Refund amount rounded down,Payments,Minor,P3,Closed,2026-07-23,2026-08-08,M. Wisniewska,A. Kowalska,Firefox / Windows,1.8.0
+BUG-1175,Order history empty for old orders,user account,trivial,P4,open,24/04/2026,,D. Yanovskyi,M. Wisniewska,Edge / Windows,1.7.0
+BUG-1176,Search bar loses focus on mobile,SEARCH,BLOCKER,P1,IN PROGRESS,25.06.2026,,A. Kowalska,,Chrome / Windows,1.5.1
+BUG-1177,Removing item clears whole cart,Cart,Trivial,P4,Closed,2026-05-01,2026-05-03,J. Zielinski,A. Kowalska,Chrome / Windows,1.4.1
+BUG-1178,Wrong VAT on invoice,Checkout,Major,P2,Closed,02/04/2026,04/04/2026,A. Kowalska,A. Kowalska,Safari / iOS,1.5.1
+BUG-1179,Filters reset on page 2,Search,Minor,P3,Rejected,25.07.2026,28.07.2026,A. Kowalska,A. Kowalska,Safari / iOS,1.9.0
+BUG-1180,Tracking number not generated,Shipping,Minor,P4,In Progress,2026-08-25,,D. Yanovskyi,A. Kowalska,Safari / iOS,1.4.2
+BUG-1181,Delivery cost zero for heavy parcel,Shipping,Blocker,P1,Open,16/05/2026,,P. Nowak,A. Kowalska,Safari / iOS,1.7.1
+BUG-1182,3-D Secure loop on retry,payments,trivial,P4,rejected,27.07.2026,04.08.2026,D. Yanovskyi,M. Wisniewska,Safari / iOS,1.4.1
+BUG-1183,Currency mismatch in receipt,Payments,Trivial,P4,Closed,2026-05-26,2026-05-29,A. Kowalska,J. Zielinski,Edge / Windows,1.5.1
+BUG-1184,Guest checkout loses address,Checkout,Minor,P3,Closed,31/05/2026,25/06/2026,M. Wisniewska,,Edge / Windows,1.8.0
+BUG-1185,Quantity resets after refresh,Cart,Minor,P3,Closed,16.04.2026,16.05.2026,D. Yanovskyi,J. Zielinski,Chrome / Android,1.8.0
+BUG-1186,Payment succeeds but order stays unpaid,Payments,Critical,P1,In Progress,2026-04-16,,M. Wisniewska,A. Kowalska,Chrome / Android,1.5.1
+BUG-1187,Tracking number not generated,SHIPPING,TRIVIAL,P4,OPEN,15/04/2026,,P. Nowak,A. Kowalska,Edge / Windows,1.6.0
+BUG-1188,Wrong VAT on invoice,Checkout,Major,P2,Rejected,07.09.2026,27.09.2026,A. Kowalska,D. Yanovskyi,Firefox / Windows,1.6.2
+BUG-1189,Description truncated on mobile,product page,minor,P3,closed,2026-04-26,2026-05-21,P. Nowak,P. Nowak,Chrome / Windows,1.7.0
+BUG-1190,Export CSV misses last record,Admin Panel,Major,P2,In Progress,01/09/2026,,A. Kowalska,J. Zielinski,Firefox / Windows,1.7.2
+BUG-1191,Cart badge shows stale count,Cart,Major,P2,In Progress,07.03.2026,,D. Yanovskyi,A. Kowalska,Firefox / Windows,1.7.1
+BUG-1192,Order total ignores discount code,Checkout,Blocker,P1,Rejected,2026-03-13,2026-04-18,A. Kowalska,,Chrome / Windows,1.5.0
+BUG-1193,Order confirmed with empty cart,Checkout,Minor,P3,Closed,15/04/2026,22/05/2026,A. Kowalska,M. Wisniewska,Edge / Windows,1.5.2
+BUG-1194,Checkout freezes on step 3,Checkout,Minor,P3,Closed,03.07.2026,19.07.2026,P. Nowak,M. Wisniewska,Chrome / Windows,1.5.0
+BUG-1195,Price not updated after currency switch,  Cart ,  Minor ,P3,  Closed ,2026-05-19,2026-06-19,J. Zielinski,A. Kowalska,Safari / iOS,1.6.0
+BUG-1196,Order confirmed with empty cart,checkout,major,P2,closed,03/05/2026,05/05/2026,M. Wisniewska,M. Wisniewska,Edge / Windows,1.7.1
+BUG-1197,Out-of-stock item can be added,Cart,Minor,P3,In Progress,16.04.2026,,M. Wisniewska,D. Yanovskyi,Edge / Windows,1.4.2
+BUG-1198,Bulk edit saves only first row,ADMIN PANEL,MINOR,P3,IN PROGRESS,2026-03-16,,D. Yanovskyi,P. Nowak,Edge / Windows,1.5.2
+BUG-1199,Email change not confirmed,User Account,Major,P2,Closed,12/03/2026,29/03/2026,D. Yanovskyi,D. Yanovskyi,Firefox / Windows,1.6.1
+BUG-1200,Refund amount rounded down,Payments,Minor,P3,Closed,11.03.2026,10.04.2026,P. Nowak,,Chrome / Android,1.7.2
+BUG-1201,Out-of-stock item can be added,Cart,Trivial,P4,Reopened,2026-04-24,,P. Nowak,P. Nowak,Chrome / Android,1.6.1
+BUG-1202,Password reset link expires instantly,User Account,Major,P2,Open,18/09/2026,,J. Zielinski,J. Zielinski,Chrome / Android,1.9.1
+BUG-1203,Cart badge shows stale count,cart,minor,P3,closed,20.07.2026,21.08.2026,J. Zielinski,P. Nowak,Edge / Windows,1.8.1
+BUG-1204,Quantity resets after refresh,Cart,Minor,P3,Closed,2026-06-07,2026-07-21,P. Nowak,P. Nowak,Chrome / Windows,1.4.1
+BUG-1205,Order history empty for old orders,User Account,Blocker,P1,Open,22/04/2026,,M. Wisniewska,A. Kowalska,Chrome / Android,1.6.0
+BUG-1206,Order total ignores discount code,Checkout,Major,P2,Closed,19.04.2026,25.05.2026,D. Yanovskyi,A. Kowalska,Chrome / Windows,1.7.1
+BUG-1207,Quantity resets after refresh,Cart,Major,P2,Closed,2026-06-11,2026-06-23,J. Zielinski,J. Zielinski,Chrome / Windows,1.7.0
+BUG-1208,Quantity resets after refresh,  Cart ,  Minor ,P3,  Open ,01/09/2026,,D. Yanovskyi,,Chrome / Android,1.9.2
+BUG-1209,Email change not confirmed,USER ACCOUNT,MAJOR,P2,CLOSED,15.03.2026,23.04.2026,M. Wisniewska,P. Nowak,Chrome / Windows,1.9.0
+BUG-1210,Gallery shows wrong image,product page,minor,P3,rejected,2026-05-02,2026-05-11,J. Zielinski,P. Nowak,Safari / iOS,1.9.0
+BUG-1211,Pickup point list empty,Shipping,Major,P2,Reopened,14/07/2026,,J. Zielinski,M. Wisniewska,Edge / Windows,1.8.2
+BUG-1212,Export CSV misses last record,Admin Panel,Major,P2,Reopened,21.08.2026,,J. Zielinski,P. Nowak,Firefox / Windows,1.5.2
+BUG-1213,Tracking number not generated,Shipping,Minor,P3,Closed,2026-06-12,2026-06-22,J. Zielinski,P. Nowak,Chrome / Android,1.6.0
+BUG-1214,Currency mismatch in receipt,Payments,Minor,P3,Closed,18/07/2026,29/08/2026,D. Yanovskyi,P. Nowak,Firefox / Windows,1.8.0
+BUG-1215,Stock label contradicts availability,Product Page,Major,P2,Closed,19.04.2026,23.04.2026,P. Nowak,J. Zielinski,Chrome / Windows,1.6.1
+BUG-1216,Out-of-stock item can be added,Cart,Major,P3,Rejected,2026-07-31,2026-08-07,M. Wisniewska,,Chrome / Android,1.7.2
+BUG-1217,Duplicate account with same email,user account,major,P2,reopened,11/06/2026,,A. Kowalska,M. Wisniewska,Edge / Windows,1.6.0
+BUG-1218,Order history empty for old orders,User Account,Major,P2,Rejected,15.07.2026,31.07.2026,J. Zielinski,P. Nowak,Firefox / Windows,1.6.0
+BUG-1219,Currency mismatch in receipt,Payments,Major,P2,Rejected,2026-06-17,2026-07-22,J. Zielinski,P. Nowak,Firefox / Windows,1.5.0
+BUG-1220,Pickup point list empty,SHIPPING,CRITICAL,P1,CLOSED,12/05/2026,18/06/2026,D. Yanovskyi,A. Kowalska,Firefox / Windows,1.6.2
+BUG-1221,Search bar loses focus on mobile,  Search ,  Minor ,P3,  Closed ,10.09.2026,12.09.2026,A. Kowalska,P. Nowak,Chrome / Windows,1.9.2
+BUG-1222,Bulk edit saves only first row,Admin Panel,Minor,P3,Rejected,2026-06-04,2026-07-02,J. Zielinski,P. Nowak,Chrome / Android,1.7.1
+BUG-1223,Currency mismatch in receipt,Payments,Minor,P3,Closed,21/05/2026,17/06/2026,M. Wisniewska,D. Yanovskyi,Edge / Windows,1.7.0
+BUG-1224,Avatar upload fails over 2 MB,user account,minor,P3,rejected,31.05.2026,19.06.2026,P. Nowak,,Chrome / Android,1.6.2
+BUG-1225,3-D Secure loop on retry,Payments,Minor,P3,Closed,2026-05-09,2026-06-16,J. Zielinski,J. Zielinski,Edge / Windows,1.6.0
+BUG-1226,Price not updated after currency switch,Cart,Minor,P3,Verified,24/05/2026,22/06/2026,D. Yanovskyi,M. Wisniewska,Edge / Windows,1.6.1
+BUG-1227,Removing item clears whole cart,Cart,Major,P2,Closed,18.08.2026,20.09.2026,A. Kowalska,D. Yanovskyi,Chrome / Windows,1.7.2
+BUG-1228,Removing item clears whole cart,Cart,Major,P2,Verified,2026-03-12,2026-03-25,M. Wisniewska,M. Wisniewska,Chrome / Windows,1.8.1
+BUG-1229,Filters reset on page 2,Search,Minor,P3,Closed,28/04/2026,16/05/2026,D. Yanovskyi,D. Yanovskyi,Chrome / Windows,1.4.2
+BUG-1230,Address line 2 dropped,Shipping,Major,P2,Open,11.07.2026,,M. Wisniewska,D. Yanovskyi,Chrome / Android,1.9.1
+BUG-1231,Email change not confirmed,USER ACCOUNT,MINOR,P3,REOPENED,2026-05-26,,P. Nowak,J. Zielinski,Chrome / Android,1.8.2
+BUG-1232,Email change not confirmed,User Account,Trivial,P4,Reopened,28/03/2026,,A. Kowalska,,Edge / Windows,1.7.0
+BUG-1233,Related products duplicated,Product Page,Major,P2,Closed,02.07.2026,11.07.2026,J. Zielinski,M. Wisniewska,Firefox / Windows,1.6.1
+BUG-1234,Password reset link expires instantly,  User Account ,  Major ,P2,  Reopened ,2026-05-21,,D. Yanovskyi,D. Yanovskyi,Chrome / Windows,1.4.0
+BUG-1235,Currency mismatch in receipt,Payments,Minor,P3,Closed,09/09/2026,18/10/2026,D. Yanovskyi,D. Yanovskyi,Chrome / Windows,1.8.1
+BUG-1236,Avatar upload fails over 2 MB,User Account,Minor,P3,Open,05.07.2026,,J. Zielinski,P. Nowak,Safari / iOS,1.8.2
+BUG-1237,Bulk edit saves only first row,Admin Panel,Minor,P3,Reopened,2026-05-04,,D. Yanovskyi,J. Zielinski,Chrome / Windows,1.8.1
+BUG-1238,No results for valid SKU,search,blocker,P1,reopened,06/06/2026,,M. Wisniewska,M. Wisniewska,Chrome / Windows,1.7.0
+BUG-1239,Currency mismatch in receipt,Payments,Major,P2,Closed,14.07.2026,15.08.2026,P. Nowak,P. Nowak,Firefox / Windows,1.7.2
+BUG-1240,Search bar loses focus on mobile,Search,Minor,P3,Rejected,2026-05-18,2026-05-20,P. Nowak,,Safari / iOS,1.8.1
+BUG-1241,Estimated date in the past,Shipping,Major,P2,In Progress,02/07/2026,,M. Wisniewska,P. Nowak,Chrome / Android,1.8.0
+BUG-1242,Refund amount rounded down,PAYMENTS,MAJOR,P2,CLOSED,12.07.2026,11.08.2026,J. Zielinski,D. Yanovskyi,Safari / iOS,1.5.2
+BUG-1243,Refund amount rounded down,Payments,Major,P1,Verified,2026-03-11,2026-04-08,J. Zielinski,M. Wisniewska,Firefox / Windows,1.7.1
+BUG-1244,Estimated date in the past,Shipping,Major,P2,Open,12/05/2026,,P. Nowak,A. Kowalska,Chrome / Android,1.4.1
+BUG-1245,Order total ignores discount code,checkout,major,P2,open,22.03.2026,,A. Kowalska,M. Wisniewska,Firefox / Windows,1.4.2
+BUG-1246,Dashboard counters out of date,Admin Panel,Trivial,P4,Open,2026-06-18,,P. Nowak,P. Nowak,Edge / Windows,1.9.1
+BUG-1247,3-D Secure loop on retry,  Payments ,  Minor ,P3,  Rejected ,22/08/2026,29/09/2026,A. Kowalska,M. Wisniewska,Chrome / Android,1.9.2
+BUG-1248,Quantity resets after refresh,Cart,Critical,P1,Verified,30.08.2026,19.09.2026,M. Wisniewska,,Firefox / Windows,1.4.2
+BUG-1249,Payment succeeds but order stays unpaid,Payments,Minor,P3,In Progress,2026-04-14,,J. Zielinski,A. Kowalska,Safari / iOS,1.4.0
+BUG-1250,Password reset link expires instantly,User Account,Trivial,P4,Closed,12/06/2026,26/07/2026,M. Wisniewska,M. Wisniewska,Chrome / Windows,1.9.2
+BUG-1251,Price not updated after currency switch,Cart,Minor,P3,Closed,04.09.2026,18.10.2026,J. Zielinski,D. Yanovskyi,Chrome / Android,1.9.1
+BUG-1252,Audit log timestamps in wrong zone,admin panel,critical,P2,closed,2026-05-29,2026-06-01,J. Zielinski,J. Zielinski,Firefox / Windows,1.7.0
+BUG-1253,Email change not confirmed,USER ACCOUNT,MAJOR,P2,REOPENED,17/04/2026,,A. Kowalska,A. Kowalska,Firefox / Windows,1.7.2
+BUG-1254,Duplicate account with same email,User Account,Minor,P3,Verified,31.07.2026,11.09.2026,J. Zielinski,M. Wisniewska,Safari / iOS,1.5.1
+BUG-1255,Estimated date in the past,Shipping,Critical,P1,Reopened,2026-03-08,,P. Nowak,D. Yanovskyi,Chrome / Windows,1.9.2
+BUG-1256,No results for valid SKU,Search,Minor,P3,Closed,27/05/2026,09/07/2026,D. Yanovskyi,,Chrome / Android,1.5.2
+BUG-1257,Dashboard counters out of date,Admin Panel,Trivial,P4,Closed,11.06.2026,26.06.2026,M. Wisniewska,J. Zielinski,Chrome / Android,1.6.2
+BUG-1258,Role permissions not applied,Admin Panel,Minor,P3,In Progress,2026-06-27,,P. Nowak,A. Kowalska,Edge / Windows,1.5.1
+BUG-1259,Description truncated on mobile,product page,minor,P3,closed,02/05/2026,11/05/2026,P. Nowak,A. Kowalska,Chrome / Windows,1.5.2
+BUG-1260,Diacritics break the query,  Search ,  Minor ,P3,  In Progress ,06.05.2026,,A. Kowalska,M. Wisniewska,Firefox / Windows,1.7.1
+BUG-1041,Price not updated after currency switch,Cart,Major,P2,Closed,24.03.2026,12.04.2026,P. Nowak,J. Zielinski,Chrome / Android,1.8.0
+BUG-1134,Currency mismatch in receipt,Payments,Minor,P3,Reopened,12.08.2026,,J. Zielinski,A. Kowalska,Chrome / Windows,1.6.1
+BUG-1261,Placeholder ticket,,,,,,,,,,

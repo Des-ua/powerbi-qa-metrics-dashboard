@@ -1,0 +1,795 @@
+﻿run_id,test_case_id,module,build,run_date,result,executed_by,duration_min
+RUN-2001,TC-CH-001,Checkout,1.4.0,07/03/2026,Passed,M. Wisniewska,25
+RUN-2002,TC-CH-002,Checkout,1.4.0,06.03.2026,Skipped,M. Wisniewska,5
+RUN-2003,TC-CH-003,Checkout,1.4.0,2026-03-04,Passed,P. Nowak,
+RUN-2004,TC-CH-004,Checkout,1.4.0,02/03/2026,Passed,P. Nowak,
+RUN-2005,TC-CH-005,Checkout,1.4.0,07.03.2026,Blocked,A. Kowalska,5
+RUN-2006,TC-CA-001,Cart,1.4.0,2026-03-03,Passed,J. Zielinski,5
+RUN-2007,TC-CA-002,cart,1.4.0,04/03/2026,Failed,P. Nowak,
+RUN-2008,TC-CA-003,Cart,1.4.0,04.03.2026,Blocked,D. Yanovskyi,8
+RUN-2009,TC-SE-001,Search,1.4.0,2026-03-06,Failed,P. Nowak,
+RUN-2010,TC-SE-002,Search,1.4.0,05/03/2026,Skipped,P. Nowak,3
+RUN-2011,TC-SE-003,SEARCH,1.4.0,07.03.2026,Passed,A. Kowalska,25
+RUN-2012,TC-SE-004,Search,1.4.0,2026-03-06,Passed,J. Zielinski,15
+RUN-2013,TC-US-001,  User Account ,1.4.0,03/03/2026,Failed,A. Kowalska,12
+RUN-2014,TC-US-002,user account,1.4.0,03.03.2026,Passed,D. Yanovskyi,8
+RUN-2015,TC-US-003,User Account,1.4.0,2026-03-04,Passed,D. Yanovskyi,5
+RUN-2016,TC-US-004,User Account,1.4.0,08/03/2026,Blocked,P. Nowak,25
+RUN-2017,TC-US-005,User Account,1.4.0,08.03.2026,Passed,P. Nowak,8
+RUN-2018,TC-US-006,User Account,1.4.0,2026-03-03,Skipped,J. Zielinski,25
+RUN-2019,TC-US-007,User Account,1.4.0,03/03/2026,Passed,A. Kowalska,
+RUN-2020,TC-PR-001,Product Page,1.4.0,03.03.2026,Passed,D. Yanovskyi,12
+RUN-2021,TC-PR-002,product page,1.4.0,2026-03-07,Skipped,J. Zielinski,8
+RUN-2022,TC-PR-003,PRODUCT PAGE,1.4.0,06/03/2026,Passed,M. Wisniewska,15
+RUN-2023,TC-PR-004,Product Page,1.4.0,08.03.2026,Passed,A. Kowalska,25
+RUN-2024,TC-PR-005,Product Page,1.4.0,2026-03-02,Failed,P. Nowak,3
+RUN-2025,TC-PR-006,Product Page,1.4.0,08/03/2026,Blocked,P. Nowak,
+RUN-2026,TC-PR-007,  Product Page ,1.4.0,04.03.2026,Blocked,D. Yanovskyi,
+RUN-2027,TC-AD-001,Admin Panel,1.4.0,2026-03-03,Passed,J. Zielinski,15
+RUN-2028,TC-AD-002,admin panel,1.4.0,05/03/2026,Passed,M. Wisniewska,15
+RUN-2029,TC-AD-003,Admin Panel,1.4.0,07.03.2026,Passed,D. Yanovskyi,25
+RUN-2030,TC-AD-004,Admin Panel,1.4.0,2026-03-02,Blocked,J. Zielinski,3
+RUN-2031,TC-PA-001,Payments,1.4.0,08/03/2026,Passed,A. Kowalska,20
+RUN-2032,TC-PA-002,Payments,1.4.0,05.03.2026,Passed,D. Yanovskyi,8
+RUN-2033,TC-PA-003,PAYMENTS,1.4.0,2026-03-08,Passed,D. Yanovskyi,20
+RUN-2034,TC-PA-004,Payments,1.4.0,07/03/2026,Passed,M. Wisniewska,
+RUN-2035,TC-PA-005,payments,1.4.0,06.03.2026,Skipped,M. Wisniewska,5
+RUN-2036,TC-PA-006,Payments,1.4.0,2026-03-07,Failed,A. Kowalska,12
+RUN-2037,TC-PA-007,Payments,1.4.0,06/03/2026,Blocked,M. Wisniewska,
+RUN-2038,TC-PA-008,Payments,1.4.0,02.03.2026,Passed,D. Yanovskyi,12
+RUN-2039,TC-SH-001,  Shipping ,1.4.0,2026-03-07,Passed,J. Zielinski,3
+RUN-2040,TC-SH-002,Shipping,1.4.0,04/03/2026,Skipped,A. Kowalska,3
+RUN-2041,TC-SH-003,Shipping,1.4.0,05.03.2026,Skipped,A. Kowalska,8
+RUN-2042,TC-SH-004,shipping,1.4.0,2026-03-04,Skipped,P. Nowak,8
+RUN-2043,TC-SH-005,Shipping,1.4.0,08/03/2026,Passed,J. Zielinski,
+RUN-2044,TC-SH-006,SHIPPING,1.4.0,06.03.2026,Passed,P. Nowak,8
+RUN-2045,TC-CH-001,Checkout,1.4.1,2026-03-18,Failed,A. Kowalska,25
+RUN-2046,TC-CH-002,Checkout,1.4.1,18/03/2026,Passed,J. Zielinski,5
+RUN-2047,TC-CH-003,Checkout,1.4.1,14.03.2026,Passed,A. Kowalska,12
+RUN-2048,TC-CH-004,Checkout,1.4.1,2026-03-13,Failed,P. Nowak,8
+RUN-2049,TC-CH-005,checkout,1.4.1,13/03/2026,Passed,D. Yanovskyi,8
+RUN-2050,TC-CA-001,Cart,1.4.1,19.03.2026,Passed,D. Yanovskyi,25
+RUN-2051,TC-CA-002,Cart,1.4.1,2026-03-17,Skipped,A. Kowalska,
+RUN-2052,TC-CA-003,  Cart ,1.4.1,16/03/2026,Passed,A. Kowalska,8
+RUN-2053,TC-CA-004,Cart,1.4.1,15.03.2026,Passed,J. Zielinski,3
+RUN-2054,TC-CA-005,Cart,1.4.1,2026-03-17,Passed,D. Yanovskyi,5
+RUN-2055,TC-CA-006,CART,1.4.1,17/03/2026,Passed,P. Nowak,8
+RUN-2056,TC-CA-007,cart,1.4.1,16.03.2026,Passed,J. Zielinski,12
+RUN-2057,TC-SE-001,Search,1.4.1,2026-03-13,Skipped,P. Nowak,12
+RUN-2058,TC-SE-002,Search,1.4.1,18/03/2026,Failed,P. Nowak,15
+RUN-2059,TC-SE-003,Search,1.4.1,16.03.2026,Passed,M. Wisniewska,25
+RUN-2060,TC-SE-004,Search,1.4.1,2026-03-18,Failed,D. Yanovskyi,15
+RUN-2061,TC-SE-005,Search,1.4.1,17/03/2026,Skipped,J. Zielinski,3
+RUN-2062,TC-SE-006,Search,1.4.1,17.03.2026,Passed,J. Zielinski,3
+RUN-2063,TC-SE-007,search,1.4.1,2026-03-18,Passed,A. Kowalska,5
+RUN-2064,TC-SE-008,Search,1.4.1,16/03/2026,Failed,J. Zielinski,8
+RUN-2065,TC-US-001,  User Account ,1.4.1,14.03.2026,Passed,P. Nowak,15
+RUN-2066,TC-US-002,USER ACCOUNT,1.4.1,2026-03-18,Blocked,J. Zielinski,20
+RUN-2067,TC-US-003,User Account,1.4.1,17/03/2026,Passed,J. Zielinski,8
+RUN-2068,TC-US-004,User Account,1.4.1,15.03.2026,Blocked,P. Nowak,8
+RUN-2069,TC-US-005,User Account,1.4.1,2026-03-18,Passed,D. Yanovskyi,8
+RUN-2070,TC-US-006,user account,1.4.1,16/03/2026,Passed,J. Zielinski,12
+RUN-2071,TC-US-007,User Account,1.4.1,16.03.2026,Failed,A. Kowalska,15
+RUN-2072,TC-PR-001,Product Page,1.4.1,2026-03-13,Passed,M. Wisniewska,
+RUN-2073,TC-PR-002,Product Page,1.4.1,13/03/2026,Passed,A. Kowalska,20
+RUN-2074,TC-PR-003,Product Page,1.4.1,17.03.2026,Passed,J. Zielinski,5
+RUN-2075,TC-AD-001,Admin Panel,1.4.1,2026-03-18,Blocked,M. Wisniewska,20
+RUN-2076,TC-AD-002,Admin Panel,1.4.1,17/03/2026,Skipped,A. Kowalska,12
+RUN-2077,TC-AD-003,ADMIN PANEL,1.4.1,16.03.2026,Blocked,D. Yanovskyi,25
+RUN-2078,TC-AD-004,  Admin Panel ,1.4.1,2026-03-16,Passed,A. Kowalska,15
+RUN-2079,TC-AD-005,Admin Panel,1.4.1,18/03/2026,Skipped,J. Zielinski,
+RUN-2080,TC-AD-006,Admin Panel,1.4.1,18.03.2026,Failed,D. Yanovskyi,25
+RUN-2081,TC-AD-007,Admin Panel,1.4.1,2026-03-13,Blocked,M. Wisniewska,12
+RUN-2082,TC-PA-001,Payments,1.4.1,18/03/2026,Passed,P. Nowak,12
+RUN-2083,TC-PA-002,Payments,1.4.1,16.03.2026,Passed,J. Zielinski,15
+RUN-2084,TC-PA-003,payments,1.4.1,2026-03-16,Passed,D. Yanovskyi,3
+RUN-2085,TC-PA-004,Payments,1.4.1,15/03/2026,Passed,P. Nowak,15
+RUN-2086,TC-PA-005,Payments,1.4.1,14.03.2026,Skipped,A. Kowalska,20
+RUN-2087,TC-SH-001,Shipping,1.4.1,2026-03-16,Passed,P. Nowak,
+RUN-2088,TC-SH-002,SHIPPING,1.4.1,15/03/2026,Failed,P. Nowak,3
+RUN-2089,TC-SH-003,Shipping,1.4.1,15.03.2026,Passed,J. Zielinski,8
+RUN-2090,TC-CH-001,Checkout,1.4.2,2026-03-25,Failed,D. Yanovskyi,5
+RUN-2091,TC-CH-002,checkout,1.4.2,24/03/2026,Passed,M. Wisniewska,15
+RUN-2092,TC-CH-003,Checkout,1.4.2,29.03.2026,Passed,P. Nowak,15
+RUN-2093,TC-CH-004,Checkout,1.4.2,2026-03-25,Skipped,J. Zielinski,3
+RUN-2094,TC-CH-005,Checkout,1.4.2,30/03/2026,Passed,A. Kowalska,8
+RUN-2095,TC-CH-006,Checkout,1.4.2,28.03.2026,Passed,J. Zielinski,12
+RUN-2096,TC-CH-007,Checkout,1.4.2,2026-03-30,Passed,D. Yanovskyi,12
+RUN-2097,TC-CA-001,Cart,1.4.2,28/03/2026,Skipped,M. Wisniewska,3
+RUN-2098,TC-CA-002,cart,1.4.2,28.03.2026,Passed,P. Nowak,
+RUN-2099,TC-CA-003,CART,1.4.2,2026-03-24,Failed,J. Zielinski,3
+RUN-2100,TC-CA-004,Cart,1.4.2,27/03/2026,Skipped,D. Yanovskyi,20
+RUN-2101,TC-CA-005,Cart,1.4.2,26.03.2026,Passed,P. Nowak,8
+RUN-2102,TC-CA-006,Cart,1.4.2,2026-03-24,Passed,A. Kowalska,5
+RUN-2103,TC-CA-007,Cart,1.4.2,26/03/2026,Skipped,A. Kowalska,3
+RUN-2104,TC-SE-001,  Search ,1.4.2,26.03.2026,Passed,D. Yanovskyi,8
+RUN-2105,TC-SE-002,search,1.4.2,2026-03-30,Skipped,D. Yanovskyi,3
+RUN-2106,TC-SE-003,Search,1.4.2,26/03/2026,Skipped,M. Wisniewska,25
+RUN-2107,TC-SE-004,Search,1.4.2,28.03.2026,Passed,D. Yanovskyi,20
+RUN-2108,TC-US-001,User Account,1.4.2,2026-03-29,Passed,D. Yanovskyi,15
+RUN-2109,TC-US-002,User Account,1.4.2,29/03/2026,Passed,J. Zielinski,8
+RUN-2110,TC-US-003,USER ACCOUNT,1.4.2,29.03.2026,Passed,D. Yanovskyi,3
+RUN-2111,TC-US-004,User Account,1.4.2,2026-03-27,Passed,J. Zielinski,12
+RUN-2112,TC-US-005,user account,1.4.2,25/03/2026,Passed,P. Nowak,3
+RUN-2113,TC-US-006,User Account,1.4.2,29.03.2026,Passed,P. Nowak,5
+RUN-2114,TC-US-007,User Account,1.4.2,2026-03-28,Skipped,J. Zielinski,
+RUN-2115,TC-PR-001,Product Page,1.4.2,24/03/2026,Skipped,P. Nowak,
+RUN-2116,TC-PR-002,Product Page,1.4.2,29.03.2026,Passed,M. Wisniewska,20
+RUN-2117,TC-PR-003,  Product Page ,1.4.2,2026-03-27,Failed,P. Nowak,8
+RUN-2118,TC-PR-004,Product Page,1.4.2,28/03/2026,Skipped,A. Kowalska,20
+RUN-2119,TC-PR-005,product page,1.4.2,30.03.2026,Failed,D. Yanovskyi,20
+RUN-2120,TC-PR-006,Product Page,1.4.2,2026-03-29,Blocked,J. Zielinski,
+RUN-2121,TC-PR-007,PRODUCT PAGE,1.4.2,25/03/2026,Failed,D. Yanovskyi,25
+RUN-2122,TC-AD-001,Admin Panel,1.4.2,26.03.2026,Skipped,M. Wisniewska,5
+RUN-2123,TC-AD-002,Admin Panel,1.4.2,2026-03-24,Passed,M. Wisniewska,25
+RUN-2124,TC-AD-003,Admin Panel,1.4.2,24/03/2026,Skipped,D. Yanovskyi,15
+RUN-2125,TC-AD-004,Admin Panel,1.4.2,29.03.2026,Passed,A. Kowalska,20
+RUN-2126,TC-AD-005,admin panel,1.4.2,2026-03-29,Failed,J. Zielinski,3
+RUN-2127,TC-AD-006,Admin Panel,1.4.2,28/03/2026,Passed,M. Wisniewska,3
+RUN-2128,TC-PA-001,Payments,1.4.2,30.03.2026,Passed,D. Yanovskyi,15
+RUN-2129,TC-PA-002,Payments,1.4.2,2026-03-29,Passed,J. Zielinski,12
+RUN-2130,TC-PA-003,  Payments ,1.4.2,25/03/2026,Passed,D. Yanovskyi,20
+RUN-2131,TC-PA-004,Payments,1.4.2,30.03.2026,Blocked,A. Kowalska,25
+RUN-2132,TC-SH-001,SHIPPING,1.4.2,2026-03-28,Failed,A. Kowalska,25
+RUN-2133,TC-SH-002,shipping,1.4.2,25/03/2026,Failed,M. Wisniewska,15
+RUN-2134,TC-SH-003,Shipping,1.4.2,26.03.2026,Passed,M. Wisniewska,15
+RUN-2135,TC-SH-004,Shipping,1.4.2,2026-03-28,Passed,A. Kowalska,15
+RUN-2136,TC-CH-001,Checkout,1.5.0,09/04/2026,Skipped,P. Nowak,20
+RUN-2137,TC-CH-002,Checkout,1.5.0,05.04.2026,Passed,D. Yanovskyi,12
+RUN-2138,TC-CH-003,Checkout,1.5.0,2026-04-10,Passed,M. Wisniewska,20
+RUN-2139,TC-CH-004,Checkout,1.5.0,04/04/2026,Passed,A. Kowalska,3
+RUN-2140,TC-CH-005,checkout,1.5.0,05.04.2026,Passed,A. Kowalska,8
+RUN-2141,TC-CA-001,Cart,1.5.0,2026-04-09,Passed,M. Wisniewska,15
+RUN-2142,TC-CA-002,Cart,1.5.0,06/04/2026,Passed,M. Wisniewska,5
+RUN-2143,TC-CA-003,CART,1.5.0,05.04.2026,Passed,J. Zielinski,20
+RUN-2144,TC-CA-004,Cart,1.5.0,2026-04-09,Failed,A. Kowalska,12
+RUN-2145,TC-SE-001,Search,1.5.0,09/04/2026,Passed,A. Kowalska,8
+RUN-2146,TC-SE-002,Search,1.5.0,09.04.2026,Passed,A. Kowalska,20
+RUN-2147,TC-SE-003,search,1.5.0,2026-04-07,Passed,A. Kowalska,25
+RUN-2148,TC-SE-004,Search,1.5.0,05/04/2026,Skipped,D. Yanovskyi,15
+RUN-2149,TC-SE-005,Search,1.5.0,08.04.2026,Failed,J. Zielinski,15
+RUN-2150,TC-SE-006,Search,1.5.0,2026-04-08,Passed,P. Nowak,25
+RUN-2151,TC-SE-007,Search,1.5.0,06/04/2026,Passed,J. Zielinski,15
+RUN-2152,TC-US-001,User Account,1.5.0,09.04.2026,Passed,J. Zielinski,5
+RUN-2153,TC-US-002,User Account,1.5.0,2026-04-10,Failed,P. Nowak,12
+RUN-2154,TC-US-003,USER ACCOUNT,1.5.0,05/04/2026,Passed,M. Wisniewska,3
+RUN-2155,TC-PR-001,Product Page,1.5.0,07.04.2026,Passed,D. Yanovskyi,15
+RUN-2156,TC-PR-002,  Product Page ,1.5.0,2026-04-04,Skipped,J. Zielinski,15
+RUN-2157,TC-PR-003,Product Page,1.5.0,10/04/2026,Failed,M. Wisniewska,5
+RUN-2158,TC-PR-004,Product Page,1.5.0,07.04.2026,Passed,P. Nowak,3
+RUN-2159,TC-PR-005,Product Page,1.5.0,2026-04-04,Skipped,P. Nowak,
+RUN-2160,TC-PR-006,Product Page,1.5.0,08/04/2026,Skipped,J. Zielinski,
+RUN-2161,TC-PR-007,product page,1.5.0,08.04.2026,Passed,A. Kowalska,25
+RUN-2162,TC-AD-001,Admin Panel,1.5.0,2026-04-06,Passed,J. Zielinski,3
+RUN-2163,TC-AD-002,Admin Panel,1.5.0,09/04/2026,Passed,D. Yanovskyi,8
+RUN-2164,TC-AD-003,Admin Panel,1.5.0,08.04.2026,Blocked,M. Wisniewska,20
+RUN-2165,TC-AD-004,ADMIN PANEL,1.5.0,2026-04-04,Passed,A. Kowalska,12
+RUN-2166,TC-AD-005,Admin Panel,1.5.0,05/04/2026,Skipped,A. Kowalska,
+RUN-2167,TC-AD-006,Admin Panel,1.5.0,10.04.2026,Failed,M. Wisniewska,5
+RUN-2168,TC-AD-007,admin panel,1.5.0,2026-04-04,Passed,A. Kowalska,5
+RUN-2169,TC-PA-001,  Payments ,1.5.0,10/04/2026,Passed,A. Kowalska,
+RUN-2170,TC-PA-002,Payments,1.5.0,07.04.2026,Passed,A. Kowalska,5
+RUN-2171,TC-PA-003,Payments,1.5.0,2026-04-05,Skipped,A. Kowalska,20
+RUN-2172,TC-PA-004,Payments,1.5.0,06/04/2026,Failed,D. Yanovskyi,
+RUN-2173,TC-SH-001,Shipping,1.5.0,05.04.2026,Passed,M. Wisniewska,
+RUN-2174,TC-SH-002,Shipping,1.5.0,2026-04-08,Passed,P. Nowak,25
+RUN-2175,TC-SH-003,shipping,1.5.0,08/04/2026,Passed,D. Yanovskyi,
+RUN-2176,TC-SH-004,SHIPPING,1.5.0,04.04.2026,Skipped,D. Yanovskyi,
+RUN-2177,TC-SH-005,Shipping,1.5.0,2026-04-06,Passed,M. Wisniewska,25
+RUN-2178,TC-SH-006,Shipping,1.5.0,05/04/2026,Passed,D. Yanovskyi,25
+RUN-2179,TC-CH-001,Checkout,1.5.1,16.04.2026,Passed,D. Yanovskyi,12
+RUN-2180,TC-CH-002,Checkout,1.5.1,2026-04-21,Passed,M. Wisniewska,12
+RUN-2181,TC-CH-003,Checkout,1.5.1,20/04/2026,Blocked,P. Nowak,8
+RUN-2182,TC-CH-004,checkout,1.5.1,17.04.2026,Passed,A. Kowalska,20
+RUN-2183,TC-CA-001,Cart,1.5.1,2026-04-17,Skipped,M. Wisniewska,5
+RUN-2184,TC-CA-002,Cart,1.5.1,17/04/2026,Passed,J. Zielinski,
+RUN-2185,TC-CA-003,Cart,1.5.1,16.04.2026,Skipped,M. Wisniewska,3
+RUN-2186,TC-CA-004,Cart,1.5.1,2026-04-19,Passed,J. Zielinski,8
+RUN-2187,TC-CA-005,CART,1.5.1,16/04/2026,Skipped,J. Zielinski,25
+RUN-2188,TC-CA-006,Cart,1.5.1,17.04.2026,Passed,J. Zielinski,
+RUN-2189,TC-CA-007,cart,1.5.1,2026-04-15,Skipped,M. Wisniewska,12
+RUN-2190,TC-CA-008,Cart,1.5.1,17/04/2026,Failed,M. Wisniewska,
+RUN-2191,TC-SE-001,Search,1.5.1,19.04.2026,Skipped,J. Zielinski,15
+RUN-2192,TC-SE-002,Search,1.5.1,2026-04-18,Passed,J. Zielinski,
+RUN-2193,TC-SE-003,Search,1.5.1,21/04/2026,Passed,M. Wisniewska,5
+RUN-2194,TC-US-001,User Account,1.5.1,18.04.2026,Passed,A. Kowalska,12
+RUN-2195,TC-US-002,  User Account ,1.5.1,2026-04-21,Passed,M. Wisniewska,8
+RUN-2196,TC-US-003,user account,1.5.1,21/04/2026,Failed,J. Zielinski,5
+RUN-2197,TC-US-004,User Account,1.5.1,17.04.2026,Passed,J. Zielinski,25
+RUN-2198,TC-US-005,USER ACCOUNT,1.5.1,2026-04-16,Passed,P. Nowak,5
+RUN-2199,TC-US-006,User Account,1.5.1,16/04/2026,Passed,P. Nowak,3
+RUN-2200,TC-US-007,User Account,1.5.1,20.04.2026,Blocked,P. Nowak,15
+RUN-2201,TC-US-008,User Account,1.5.1,2026-04-21,Passed,P. Nowak,20
+RUN-2202,TC-PR-001,Product Page,1.5.1,20/04/2026,Blocked,A. Kowalska,25
+RUN-2203,TC-PR-002,product page,1.5.1,17.04.2026,Failed,P. Nowak,20
+RUN-2204,TC-PR-003,Product Page,1.5.1,2026-04-20,Passed,P. Nowak,12
+RUN-2205,TC-PR-004,Product Page,1.5.1,21/04/2026,Passed,M. Wisniewska,5
+RUN-2206,TC-PR-005,Product Page,1.5.1,17.04.2026,Passed,M. Wisniewska,20
+RUN-2207,TC-PR-006,Product Page,1.5.1,2026-04-20,Blocked,M. Wisniewska,25
+RUN-2208,TC-PR-007,  Product Page ,1.5.1,16/04/2026,Passed,M. Wisniewska,20
+RUN-2209,TC-PR-008,PRODUCT PAGE,1.5.1,19.04.2026,Failed,M. Wisniewska,20
+RUN-2210,TC-AD-001,admin panel,1.5.1,2026-04-21,Passed,A. Kowalska,25
+RUN-2211,TC-AD-002,Admin Panel,1.5.1,18/04/2026,Skipped,J. Zielinski,
+RUN-2212,TC-AD-003,Admin Panel,1.5.1,16.04.2026,Failed,J. Zielinski,
+RUN-2213,TC-AD-004,Admin Panel,1.5.1,2026-04-17,Passed,A. Kowalska,20
+RUN-2214,TC-AD-005,Admin Panel,1.5.1,18/04/2026,Skipped,M. Wisniewska,20
+RUN-2215,TC-AD-006,Admin Panel,1.5.1,19.04.2026,Failed,A. Kowalska,8
+RUN-2216,TC-PA-001,Payments,1.5.1,2026-04-15,Passed,D. Yanovskyi,20
+RUN-2217,TC-PA-002,payments,1.5.1,18/04/2026,Skipped,A. Kowalska,5
+RUN-2218,TC-PA-003,Payments,1.5.1,17.04.2026,Skipped,D. Yanovskyi,5
+RUN-2219,TC-PA-004,Payments,1.5.1,2026-04-16,Passed,A. Kowalska,25
+RUN-2220,TC-PA-005,PAYMENTS,1.5.1,16/04/2026,Failed,M. Wisniewska,
+RUN-2221,TC-PA-006,  Payments ,1.5.1,20.04.2026,Skipped,D. Yanovskyi,25
+RUN-2222,TC-SH-001,Shipping,1.5.1,2026-04-19,Blocked,D. Yanovskyi,25
+RUN-2223,TC-SH-002,Shipping,1.5.1,18/04/2026,Passed,M. Wisniewska,12
+RUN-2224,TC-SH-003,shipping,1.5.1,18.04.2026,Skipped,A. Kowalska,8
+RUN-2225,TC-SH-004,Shipping,1.5.1,2026-04-20,Passed,M. Wisniewska,20
+RUN-2226,TC-CH-001,Checkout,1.5.2,02/05/2026,Failed,D. Yanovskyi,20
+RUN-2227,TC-CH-002,Checkout,1.5.2,27.04.2026,Passed,P. Nowak,15
+RUN-2228,TC-CH-003,Checkout,1.5.2,2026-05-02,Failed,P. Nowak,3
+RUN-2229,TC-CH-004,Checkout,1.5.2,29/04/2026,Passed,D. Yanovskyi,12
+RUN-2230,TC-CH-005,Checkout,1.5.2,27.04.2026,Blocked,A. Kowalska,5
+RUN-2231,TC-CH-006,CHECKOUT,1.5.2,2026-04-28,Skipped,D. Yanovskyi,8
+RUN-2232,TC-CH-007,Checkout,1.5.2,30/04/2026,Blocked,M. Wisniewska,15
+RUN-2233,TC-CA-001,Cart,1.5.2,26.04.2026,Blocked,A. Kowalska,15
+RUN-2234,TC-CA-002,  Cart ,1.5.2,2026-04-29,Failed,D. Yanovskyi,15
+RUN-2235,TC-CA-003,Cart,1.5.2,29/04/2026,Passed,J. Zielinski,15
+RUN-2236,TC-CA-004,Cart,1.5.2,30.04.2026,Passed,M. Wisniewska,5
+RUN-2237,TC-CA-005,Cart,1.5.2,2026-04-30,Passed,A. Kowalska,15
+RUN-2238,TC-CA-006,cart,1.5.2,29/04/2026,Passed,M. Wisniewska,3
+RUN-2239,TC-SE-001,Search,1.5.2,02.05.2026,Passed,A. Kowalska,20
+RUN-2240,TC-SE-002,Search,1.5.2,2026-04-27,Passed,A. Kowalska,25
+RUN-2241,TC-SE-003,Search,1.5.2,29/04/2026,Passed,M. Wisniewska,3
+RUN-2242,TC-US-001,USER ACCOUNT,1.5.2,02.05.2026,Passed,P. Nowak,8
+RUN-2243,TC-US-002,User Account,1.5.2,2026-04-27,Passed,J. Zielinski,15
+RUN-2244,TC-US-003,User Account,1.5.2,01/05/2026,Skipped,P. Nowak,5
+RUN-2245,TC-US-004,user account,1.5.2,28.04.2026,Passed,M. Wisniewska,
+RUN-2246,TC-US-005,User Account,1.5.2,2026-04-29,Passed,A. Kowalska,8
+RUN-2247,TC-PR-001,  Product Page ,1.5.2,30/04/2026,Blocked,P. Nowak,
+RUN-2248,TC-PR-002,Product Page,1.5.2,30.04.2026,Skipped,P. Nowak,
+RUN-2249,TC-PR-003,Product Page,1.5.2,2026-04-28,Skipped,M. Wisniewska,8
+RUN-2250,TC-PR-004,Product Page,1.5.2,28/04/2026,Skipped,M. Wisniewska,8
+RUN-2251,TC-PR-005,Product Page,1.5.2,30.04.2026,Blocked,P. Nowak,20
+RUN-2252,TC-PR-006,product page,1.5.2,2026-04-27,Passed,J. Zielinski,5
+RUN-2253,TC-PR-007,PRODUCT PAGE,1.5.2,30/04/2026,Passed,D. Yanovskyi,
+RUN-2254,TC-PR-008,Product Page,1.5.2,30.04.2026,Skipped,M. Wisniewska,20
+RUN-2255,TC-AD-001,Admin Panel,1.5.2,2026-05-02,Failed,D. Yanovskyi,
+RUN-2256,TC-AD-002,Admin Panel,1.5.2,02/05/2026,Blocked,J. Zielinski,8
+RUN-2257,TC-AD-003,Admin Panel,1.5.2,29.04.2026,Passed,A. Kowalska,
+RUN-2258,TC-PA-001,Payments,1.5.2,2026-05-02,Skipped,M. Wisniewska,
+RUN-2259,TC-PA-002,payments,1.5.2,30/04/2026,Blocked,A. Kowalska,25
+RUN-2260,TC-PA-003,  Payments ,1.5.2,01.05.2026,Passed,J. Zielinski,3
+RUN-2261,TC-SH-001,Shipping,1.5.2,2026-04-30,Passed,A. Kowalska,8
+RUN-2262,TC-SH-002,Shipping,1.5.2,30/04/2026,Passed,D. Yanovskyi,20
+RUN-2263,TC-SH-003,Shipping,1.5.2,30.04.2026,Skipped,A. Kowalska,12
+RUN-2264,TC-SH-004,SHIPPING,1.5.2,2026-04-28,Passed,A. Kowalska,
+RUN-2265,TC-CH-001,Checkout,1.6.0,12/05/2026,Skipped,P. Nowak,
+RUN-2266,TC-CH-002,checkout,1.6.0,07.05.2026,Passed,D. Yanovskyi,15
+RUN-2267,TC-CH-003,Checkout,1.6.0,2026-05-08,Skipped,J. Zielinski,
+RUN-2268,TC-CH-004,Checkout,1.6.0,08/05/2026,Failed,A. Kowalska,5
+RUN-2269,TC-CH-005,Checkout,1.6.0,10.05.2026,Passed,D. Yanovskyi,8
+RUN-2270,TC-CH-006,Checkout,1.6.0,2026-05-07,Passed,M. Wisniewska,12
+RUN-2271,TC-CH-007,Checkout,1.6.0,08/05/2026,Blocked,P. Nowak,
+RUN-2272,TC-CH-008,Checkout,1.6.0,10.05.2026,Failed,M. Wisniewska,15
+RUN-2273,TC-CA-001,cart,1.6.0,2026-05-10,Passed,A. Kowalska,12
+RUN-2274,TC-CA-002,Cart,1.6.0,12/05/2026,Passed,M. Wisniewska,20
+RUN-2275,TC-CA-003,CART,1.6.0,11.05.2026,Passed,D. Yanovskyi,5
+RUN-2276,TC-CA-004,Cart,1.6.0,2026-05-13,Passed,A. Kowalska,8
+RUN-2277,TC-SE-001,Search,1.6.0,10/05/2026,Passed,P. Nowak,25
+RUN-2278,TC-SE-002,Search,1.6.0,13.05.2026,Passed,D. Yanovskyi,15
+RUN-2279,TC-SE-003,Search,1.6.0,2026-05-08,Skipped,J. Zielinski,3
+RUN-2280,TC-SE-004,search,1.6.0,09/05/2026,Skipped,P. Nowak,15
+RUN-2281,TC-SE-005,Search,1.6.0,07.05.2026,Passed,M. Wisniewska,
+RUN-2282,TC-US-001,User Account,1.6.0,2026-05-07,Passed,J. Zielinski,
+RUN-2283,TC-US-002,User Account,1.6.0,12/05/2026,Blocked,P. Nowak,5
+RUN-2284,TC-US-003,User Account,1.6.0,07.05.2026,Failed,J. Zielinski,3
+RUN-2285,TC-US-004,User Account,1.6.0,2026-05-11,Passed,D. Yanovskyi,12
+RUN-2286,TC-US-005,USER ACCOUNT,1.6.0,12/05/2026,Passed,M. Wisniewska,
+RUN-2287,TC-US-006,user account,1.6.0,11.05.2026,Passed,J. Zielinski,20
+RUN-2288,TC-US-007,User Account,1.6.0,2026-05-09,Passed,D. Yanovskyi,15
+RUN-2289,TC-PR-001,Product Page,1.6.0,07/05/2026,Failed,J. Zielinski,12
+RUN-2290,TC-PR-002,Product Page,1.6.0,09.05.2026,Failed,P. Nowak,25
+RUN-2291,TC-PR-003,Product Page,1.6.0,2026-05-11,Passed,A. Kowalska,
+RUN-2292,TC-PR-004,Product Page,1.6.0,12/05/2026,Skipped,J. Zielinski,15
+RUN-2293,TC-PR-005,Product Page,1.6.0,07.05.2026,Passed,D. Yanovskyi,3
+RUN-2294,TC-PR-006,product page,1.6.0,2026-05-07,Blocked,P. Nowak,
+RUN-2295,TC-PR-007,Product Page,1.6.0,10/05/2026,Passed,M. Wisniewska,3
+RUN-2296,TC-AD-001,Admin Panel,1.6.0,10.05.2026,Blocked,M. Wisniewska,8
+RUN-2297,TC-AD-002,ADMIN PANEL,1.6.0,2026-05-09,Skipped,A. Kowalska,12
+RUN-2298,TC-AD-003,Admin Panel,1.6.0,11/05/2026,Passed,A. Kowalska,
+RUN-2299,TC-AD-004,  Admin Panel ,1.6.0,13.05.2026,Passed,A. Kowalska,25
+RUN-2300,TC-AD-005,Admin Panel,1.6.0,2026-05-08,Failed,P. Nowak,20
+RUN-2301,TC-PA-001,payments,1.6.0,09/05/2026,Passed,D. Yanovskyi,
+RUN-2302,TC-PA-002,Payments,1.6.0,09.05.2026,Blocked,J. Zielinski,25
+RUN-2303,TC-PA-003,Payments,1.6.0,2026-05-12,Passed,A. Kowalska,12
+RUN-2304,TC-PA-004,Payments,1.6.0,08/05/2026,Failed,P. Nowak,8
+RUN-2305,TC-PA-005,Payments,1.6.0,09.05.2026,Failed,P. Nowak,20
+RUN-2306,TC-PA-006,Payments,1.6.0,2026-05-13,Blocked,M. Wisniewska,25
+RUN-2307,TC-SH-001,Shipping,1.6.0,12/05/2026,Passed,A. Kowalska,3
+RUN-2308,TC-SH-002,SHIPPING,1.6.0,12.05.2026,Blocked,D. Yanovskyi,25
+RUN-2309,TC-SH-003,Shipping,1.6.0,2026-05-12,Skipped,A. Kowalska,3
+RUN-2310,TC-SH-004,Shipping,1.6.0,07/05/2026,Blocked,A. Kowalska,25
+RUN-2311,TC-SH-005,Shipping,1.6.0,13.05.2026,Skipped,J. Zielinski,12
+RUN-2312,TC-CH-001,  Checkout ,1.6.1,2026-05-24,Blocked,M. Wisniewska,5
+RUN-2313,TC-CH-002,Checkout,1.6.1,18/05/2026,Passed,P. Nowak,20
+RUN-2314,TC-CH-003,Checkout,1.6.1,23.05.2026,Failed,M. Wisniewska,5
+RUN-2315,TC-CH-004,checkout,1.6.1,2026-05-24,Passed,A. Kowalska,8
+RUN-2316,TC-CA-001,Cart,1.6.1,24/05/2026,Passed,A. Kowalska,
+RUN-2317,TC-CA-002,Cart,1.6.1,21.05.2026,Skipped,J. Zielinski,3
+RUN-2318,TC-CA-003,Cart,1.6.1,2026-05-22,Passed,A. Kowalska,3
+RUN-2319,TC-CA-004,CART,1.6.1,18/05/2026,Passed,A. Kowalska,5
+RUN-2320,TC-SE-001,Search,1.6.1,18.05.2026,Failed,A. Kowalska,20
+RUN-2321,TC-SE-002,Search,1.6.1,2026-05-19,Failed,M. Wisniewska,5
+RUN-2322,TC-SE-003,search,1.6.1,22/05/2026,Passed,D. Yanovskyi,3
+RUN-2323,TC-US-001,User Account,1.6.1,24.05.2026,Skipped,P. Nowak,
+RUN-2324,TC-US-002,User Account,1.6.1,2026-05-23,Passed,D. Yanovskyi,12
+RUN-2325,TC-US-003,  User Account ,1.6.1,21/05/2026,Passed,P. Nowak,3
+RUN-2326,TC-US-004,User Account,1.6.1,20.05.2026,Passed,D. Yanovskyi,5
+RUN-2327,TC-US-005,User Account,1.6.1,2026-05-20,Skipped,P. Nowak,5
+RUN-2328,TC-US-006,User Account,1.6.1,18/05/2026,Skipped,M. Wisniewska,15
+RUN-2329,TC-PR-001,product page,1.6.1,18.05.2026,Passed,M. Wisniewska,
+RUN-2330,TC-PR-002,PRODUCT PAGE,1.6.1,2026-05-23,Skipped,D. Yanovskyi,3
+RUN-2331,TC-PR-003,Product Page,1.6.1,23/05/2026,Skipped,A. Kowalska,12
+RUN-2332,TC-PR-004,Product Page,1.6.1,22.05.2026,Blocked,D. Yanovskyi,8
+RUN-2333,TC-PR-005,Product Page,1.6.1,2026-05-18,Passed,P. Nowak,15
+RUN-2334,TC-PR-006,Product Page,1.6.1,22/05/2026,Failed,P. Nowak,8
+RUN-2335,TC-PR-007,Product Page,1.6.1,22.05.2026,Blocked,J. Zielinski,25
+RUN-2336,TC-AD-001,admin panel,1.6.1,2026-05-24,Passed,A. Kowalska,3
+RUN-2337,TC-AD-002,Admin Panel,1.6.1,23/05/2026,Skipped,M. Wisniewska,20
+RUN-2338,TC-AD-003,  Admin Panel ,1.6.1,22.05.2026,Failed,D. Yanovskyi,5
+RUN-2339,TC-AD-004,Admin Panel,1.6.1,2026-05-21,Passed,M. Wisniewska,
+RUN-2340,TC-AD-005,Admin Panel,1.6.1,21/05/2026,Skipped,M. Wisniewska,5
+RUN-2341,TC-AD-006,ADMIN PANEL,1.6.1,19.05.2026,Blocked,P. Nowak,5
+RUN-2342,TC-AD-007,Admin Panel,1.6.1,2026-05-23,Blocked,P. Nowak,12
+RUN-2343,TC-AD-008,admin panel,1.6.1,24/05/2026,Skipped,P. Nowak,25
+RUN-2344,TC-PA-001,Payments,1.6.1,24.05.2026,Passed,J. Zielinski,8
+RUN-2345,TC-PA-002,Payments,1.6.1,2026-05-20,Blocked,P. Nowak,12
+RUN-2346,TC-PA-003,Payments,1.6.1,21/05/2026,Blocked,J. Zielinski,25
+RUN-2347,TC-PA-004,Payments,1.6.1,21.05.2026,Passed,P. Nowak,8
+RUN-2348,TC-PA-005,Payments,1.6.1,2026-05-21,Skipped,M. Wisniewska,5
+RUN-2349,TC-PA-006,Payments,1.6.1,19/05/2026,Passed,P. Nowak,8
+RUN-2350,TC-PA-007,payments,1.6.1,23.05.2026,Failed,J. Zielinski,25
+RUN-2351,TC-PA-008,  Payments ,1.6.1,2026-05-24,Failed,J. Zielinski,5
+RUN-2352,TC-SH-001,SHIPPING,1.6.1,19/05/2026,Passed,A. Kowalska,25
+RUN-2353,TC-SH-002,Shipping,1.6.1,24.05.2026,Passed,A. Kowalska,8
+RUN-2354,TC-SH-003,Shipping,1.6.1,2026-05-24,Passed,M. Wisniewska,3
+RUN-2355,TC-CH-001,Checkout,1.6.2,03/06/2026,Passed,D. Yanovskyi,8
+RUN-2356,TC-CH-002,Checkout,1.6.2,04.06.2026,Passed,P. Nowak,20
+RUN-2357,TC-CH-003,checkout,1.6.2,2026-05-29,Skipped,A. Kowalska,12
+RUN-2358,TC-CH-004,Checkout,1.6.2,30/05/2026,Passed,A. Kowalska,25
+RUN-2359,TC-CH-005,Checkout,1.6.2,02.06.2026,Failed,D. Yanovskyi,
+RUN-2360,TC-CH-006,Checkout,1.6.2,2026-06-01,Passed,A. Kowalska,25
+RUN-2361,TC-CH-007,Checkout,1.6.2,30/05/2026,Blocked,D. Yanovskyi,25
+RUN-2362,TC-CH-008,Checkout,1.6.2,30.05.2026,Passed,D. Yanovskyi,25
+RUN-2363,TC-CA-001,CART,1.6.2,2026-06-03,Skipped,M. Wisniewska,
+RUN-2364,TC-CA-002,cart,1.6.2,04/06/2026,Passed,J. Zielinski,12
+RUN-2365,TC-CA-003,Cart,1.6.2,02.06.2026,Failed,P. Nowak,5
+RUN-2366,TC-CA-004,Cart,1.6.2,2026-06-04,Failed,A. Kowalska,8
+RUN-2367,TC-CA-005,Cart,1.6.2,04/06/2026,Passed,M. Wisniewska,25
+RUN-2368,TC-CA-006,Cart,1.6.2,02.06.2026,Blocked,M. Wisniewska,15
+RUN-2369,TC-CA-007,Cart,1.6.2,2026-05-29,Blocked,J. Zielinski,20
+RUN-2370,TC-SE-001,Search,1.6.2,30/05/2026,Passed,P. Nowak,
+RUN-2371,TC-SE-002,search,1.6.2,31.05.2026,Passed,A. Kowalska,8
+RUN-2372,TC-SE-003,Search,1.6.2,2026-05-30,Passed,A. Kowalska,
+RUN-2373,TC-SE-004,Search,1.6.2,01/06/2026,Passed,P. Nowak,
+RUN-2374,TC-SE-005,SEARCH,1.6.2,03.06.2026,Skipped,D. Yanovskyi,25
+RUN-2375,TC-SE-006,Search,1.6.2,2026-06-03,Failed,P. Nowak,5
+RUN-2376,TC-SE-007,Search,1.6.2,01/06/2026,Skipped,D. Yanovskyi,5
+RUN-2377,TC-SE-008,  Search ,1.6.2,03.06.2026,Passed,A. Kowalska,15
+RUN-2378,TC-US-001,user account,1.6.2,2026-05-29,Failed,A. Kowalska,20
+RUN-2379,TC-US-002,User Account,1.6.2,01/06/2026,Passed,M. Wisniewska,3
+RUN-2380,TC-US-003,User Account,1.6.2,29.05.2026,Failed,A. Kowalska,5
+RUN-2381,TC-US-004,User Account,1.6.2,2026-06-04,Passed,A. Kowalska,20
+RUN-2382,TC-US-005,User Account,1.6.2,01/06/2026,Passed,P. Nowak,20
+RUN-2383,TC-US-006,User Account,1.6.2,03.06.2026,Blocked,P. Nowak,12
+RUN-2384,TC-US-007,User Account,1.6.2,2026-06-03,Blocked,D. Yanovskyi,
+RUN-2385,TC-PR-001,PRODUCT PAGE,1.6.2,04/06/2026,Passed,P. Nowak,8
+RUN-2386,TC-PR-002,Product Page,1.6.2,02.06.2026,Passed,D. Yanovskyi,3
+RUN-2387,TC-PR-003,Product Page,1.6.2,2026-05-31,Skipped,D. Yanovskyi,12
+RUN-2388,TC-PR-004,Product Page,1.6.2,30/05/2026,Passed,J. Zielinski,20
+RUN-2389,TC-PR-005,Product Page,1.6.2,01.06.2026,Passed,A. Kowalska,12
+RUN-2390,TC-PR-006,  Product Page ,1.6.2,2026-06-02,Skipped,M. Wisniewska,3
+RUN-2391,TC-PR-007,Product Page,1.6.2,02/06/2026,Skipped,D. Yanovskyi,
+RUN-2392,TC-AD-001,admin panel,1.6.2,29.05.2026,Passed,M. Wisniewska,25
+RUN-2393,TC-AD-002,Admin Panel,1.6.2,2026-06-02,Failed,J. Zielinski,
+RUN-2394,TC-AD-003,Admin Panel,1.6.2,02/06/2026,Passed,P. Nowak,5
+RUN-2395,TC-AD-004,Admin Panel,1.6.2,31.05.2026,Passed,P. Nowak,20
+RUN-2396,TC-AD-005,ADMIN PANEL,1.6.2,2026-05-29,Passed,M. Wisniewska,15
+RUN-2397,TC-AD-006,Admin Panel,1.6.2,31/05/2026,Passed,J. Zielinski,20
+RUN-2398,TC-AD-007,Admin Panel,1.6.2,02.06.2026,Passed,M. Wisniewska,12
+RUN-2399,TC-PA-001,payments,1.6.2,2026-05-29,Passed,J. Zielinski,5
+RUN-2400,TC-PA-002,Payments,1.6.2,31/05/2026,Passed,D. Yanovskyi,20
+RUN-2401,TC-PA-003,Payments,1.6.2,30.05.2026,Skipped,M. Wisniewska,12
+RUN-2402,TC-PA-004,Payments,1.6.2,2026-06-03,Passed,A. Kowalska,5
+RUN-2403,TC-PA-005,  Payments ,1.6.2,02/06/2026,Skipped,D. Yanovskyi,20
+RUN-2404,TC-PA-006,Payments,1.6.2,04.06.2026,Passed,A. Kowalska,25
+RUN-2405,TC-PA-007,Payments,1.6.2,2026-05-30,Passed,A. Kowalska,25
+RUN-2406,TC-PA-008,payments,1.6.2,04/06/2026,Passed,P. Nowak,25
+RUN-2407,TC-SH-001,SHIPPING,1.6.2,29.05.2026,Passed,M. Wisniewska,15
+RUN-2408,TC-SH-002,Shipping,1.6.2,2026-06-04,Failed,J. Zielinski,5
+RUN-2409,TC-SH-003,Shipping,1.6.2,01/06/2026,Passed,M. Wisniewska,25
+RUN-2410,TC-SH-004,Shipping,1.6.2,29.05.2026,Passed,J. Zielinski,25
+RUN-2411,TC-SH-005,Shipping,1.6.2,2026-05-30,Blocked,P. Nowak,15
+RUN-2412,TC-SH-006,Shipping,1.6.2,29/05/2026,Passed,P. Nowak,3
+RUN-2413,TC-SH-007,shipping,1.6.2,29.05.2026,Failed,A. Kowalska,20
+RUN-2414,TC-SH-008,Shipping,1.6.2,2026-06-01,Passed,A. Kowalska,25
+RUN-2415,TC-CH-001,Checkout,1.7.0,10/06/2026,Passed,J. Zielinski,8
+RUN-2416,TC-CH-002,  Checkout ,1.7.0,15.06.2026,Skipped,D. Yanovskyi,20
+RUN-2417,TC-CH-003,Checkout,1.7.0,2026-06-14,Passed,D. Yanovskyi,12
+RUN-2418,TC-CH-004,CHECKOUT,1.7.0,13/06/2026,Passed,P. Nowak,8
+RUN-2419,TC-CH-005,Checkout,1.7.0,09.06.2026,Failed,J. Zielinski,5
+RUN-2420,TC-CH-006,checkout,1.7.0,2026-06-14,Failed,M. Wisniewska,8
+RUN-2421,TC-CH-007,Checkout,1.7.0,15/06/2026,Passed,J. Zielinski,8
+RUN-2422,TC-CA-001,Cart,1.7.0,15.06.2026,Passed,P. Nowak,25
+RUN-2423,TC-CA-002,Cart,1.7.0,2026-06-11,Passed,P. Nowak,15
+RUN-2424,TC-CA-003,Cart,1.7.0,10/06/2026,Skipped,A. Kowalska,3
+RUN-2425,TC-CA-004,Cart,1.7.0,09.06.2026,Passed,M. Wisniewska,12
+RUN-2426,TC-SE-001,Search,1.7.0,2026-06-10,Passed,P. Nowak,5
+RUN-2427,TC-SE-002,search,1.7.0,15/06/2026,Blocked,D. Yanovskyi,8
+RUN-2428,TC-SE-003,Search,1.7.0,11.06.2026,Passed,A. Kowalska,8
+RUN-2429,TC-SE-004,SEARCH,1.7.0,2026-06-14,Blocked,P. Nowak,15
+RUN-2430,TC-SE-005,Search,1.7.0,10/06/2026,Passed,D. Yanovskyi,3
+RUN-2431,TC-US-001,User Account,1.7.0,10.06.2026,Passed,D. Yanovskyi,5
+RUN-2432,TC-US-002,User Account,1.7.0,2026-06-10,Passed,A. Kowalska,20
+RUN-2433,TC-US-003,User Account,1.7.0,12/06/2026,Passed,A. Kowalska,5
+RUN-2434,TC-US-004,user account,1.7.0,13.06.2026,Passed,J. Zielinski,25
+RUN-2435,TC-US-005,User Account,1.7.0,2026-06-15,Failed,A. Kowalska,8
+RUN-2436,TC-US-006,User Account,1.7.0,13/06/2026,Passed,J. Zielinski,15
+RUN-2437,TC-US-007,User Account,1.7.0,10.06.2026,Failed,M. Wisniewska,
+RUN-2438,TC-US-008,User Account,1.7.0,2026-06-14,Failed,A. Kowalska,
+RUN-2439,TC-PR-001,Product Page,1.7.0,10/06/2026,Failed,P. Nowak,3
+RUN-2440,TC-PR-002,PRODUCT PAGE,1.7.0,12.06.2026,Blocked,D. Yanovskyi,8
+RUN-2441,TC-PR-003,product page,1.7.0,2026-06-15,Passed,P. Nowak,25
+RUN-2442,TC-PR-004,  Product Page ,1.7.0,14/06/2026,Skipped,M. Wisniewska,12
+RUN-2443,TC-PR-005,Product Page,1.7.0,11.06.2026,Skipped,A. Kowalska,3
+RUN-2444,TC-PR-006,Product Page,1.7.0,2026-06-14,Passed,J. Zielinski,
+RUN-2445,TC-PR-007,Product Page,1.7.0,15/06/2026,Blocked,M. Wisniewska,
+RUN-2446,TC-AD-001,Admin Panel,1.7.0,10.06.2026,Blocked,J. Zielinski,3
+RUN-2447,TC-AD-002,Admin Panel,1.7.0,2026-06-12,Passed,P. Nowak,25
+RUN-2448,TC-AD-003,admin panel,1.7.0,12/06/2026,Passed,A. Kowalska,3
+RUN-2449,TC-AD-004,Admin Panel,1.7.0,13.06.2026,Passed,P. Nowak,5
+RUN-2450,TC-AD-005,Admin Panel,1.7.0,2026-06-11,Passed,M. Wisniewska,3
+RUN-2451,TC-AD-006,ADMIN PANEL,1.7.0,13/06/2026,Passed,J. Zielinski,15
+RUN-2452,TC-AD-007,Admin Panel,1.7.0,12.06.2026,Passed,J. Zielinski,3
+RUN-2453,TC-PA-001,Payments,1.7.0,2026-06-12,Passed,D. Yanovskyi,15
+RUN-2454,TC-PA-002,Payments,1.7.0,11/06/2026,Passed,A. Kowalska,
+RUN-2455,TC-PA-003,payments,1.7.0,12.06.2026,Passed,A. Kowalska,12
+RUN-2456,TC-PA-004,Payments,1.7.0,2026-06-14,Passed,D. Yanovskyi,3
+RUN-2457,TC-SH-001,Shipping,1.7.0,10/06/2026,Failed,J. Zielinski,3
+RUN-2458,TC-SH-002,Shipping,1.7.0,12.06.2026,Passed,M. Wisniewska,20
+RUN-2459,TC-SH-003,Shipping,1.7.0,2026-06-15,Passed,A. Kowalska,20
+RUN-2460,TC-CH-001,Checkout,1.7.1,25/06/2026,Passed,A. Kowalska,8
+RUN-2461,TC-CH-002,Checkout,1.7.1,22.06.2026,Failed,D. Yanovskyi,3
+RUN-2462,TC-CH-003,CHECKOUT,1.7.1,2026-06-22,Blocked,A. Kowalska,25
+RUN-2463,TC-CH-004,Checkout,1.7.1,24/06/2026,Passed,J. Zielinski,15
+RUN-2464,TC-CA-001,Cart,1.7.1,24.06.2026,Blocked,J. Zielinski,3
+RUN-2465,TC-CA-002,Cart,1.7.1,2026-06-21,Passed,A. Kowalska,3
+RUN-2466,TC-CA-003,Cart,1.7.1,26/06/2026,Passed,A. Kowalska,8
+RUN-2467,TC-CA-004,Cart,1.7.1,21.06.2026,Blocked,A. Kowalska,12
+RUN-2468,TC-CA-005,  Cart ,1.7.1,2026-06-22,Passed,A. Kowalska,3
+RUN-2469,TC-SE-001,search,1.7.1,20/06/2026,Passed,P. Nowak,12
+RUN-2470,TC-SE-002,Search,1.7.1,25.06.2026,Failed,M. Wisniewska,12
+RUN-2471,TC-SE-003,Search,1.7.1,2026-06-20,Passed,A. Kowalska,8
+RUN-2472,TC-SE-004,Search,1.7.1,23/06/2026,Passed,A. Kowalska,5
+RUN-2473,TC-SE-005,SEARCH,1.7.1,22.06.2026,Failed,D. Yanovskyi,3
+RUN-2474,TC-SE-006,Search,1.7.1,2026-06-21,Passed,P. Nowak,20
+RUN-2475,TC-SE-007,Search,1.7.1,25/06/2026,Passed,A. Kowalska,3
+RUN-2476,TC-US-001,user account,1.7.1,20.06.2026,Passed,J. Zielinski,5
+RUN-2477,TC-US-002,User Account,1.7.1,2026-06-24,Passed,D. Yanovskyi,8
+RUN-2478,TC-US-003,User Account,1.7.1,22/06/2026,Skipped,M. Wisniewska,5
+RUN-2479,TC-US-004,User Account,1.7.1,23.06.2026,Passed,P. Nowak,25
+RUN-2480,TC-US-005,User Account,1.7.1,2026-06-25,Failed,D. Yanovskyi,3
+RUN-2481,TC-PR-001,  Product Page ,1.7.1,23/06/2026,Passed,M. Wisniewska,15
+RUN-2482,TC-PR-002,Product Page,1.7.1,26.06.2026,Failed,M. Wisniewska,15
+RUN-2483,TC-PR-003,product page,1.7.1,2026-06-22,Passed,P. Nowak,
+RUN-2484,TC-PR-004,PRODUCT PAGE,1.7.1,24/06/2026,Skipped,J. Zielinski,
+RUN-2485,TC-AD-001,Admin Panel,1.7.1,22.06.2026,Blocked,P. Nowak,12
+RUN-2486,TC-AD-002,Admin Panel,1.7.1,2026-06-21,Skipped,M. Wisniewska,3
+RUN-2487,TC-AD-003,Admin Panel,1.7.1,26/06/2026,Passed,J. Zielinski,20
+RUN-2488,TC-PA-001,Payments,1.7.1,24.06.2026,Passed,P. Nowak,12
+RUN-2489,TC-PA-002,Payments,1.7.1,2026-06-22,Passed,D. Yanovskyi,
+RUN-2490,TC-PA-003,payments,1.7.1,24/06/2026,Passed,A. Kowalska,25
+RUN-2491,TC-PA-004,Payments,1.7.1,21.06.2026,Skipped,M. Wisniewska,20
+RUN-2492,TC-PA-005,Payments,1.7.1,2026-06-26,Skipped,D. Yanovskyi,3
+RUN-2493,TC-SH-001,Shipping,1.7.1,24/06/2026,Passed,J. Zielinski,5
+RUN-2494,TC-SH-002,  Shipping ,1.7.1,24.06.2026,Passed,D. Yanovskyi,5
+RUN-2495,TC-SH-003,SHIPPING,1.7.1,2026-06-22,Passed,A. Kowalska,20
+RUN-2496,TC-SH-004,Shipping,1.7.1,21/06/2026,Blocked,P. Nowak,5
+RUN-2497,TC-SH-005,shipping,1.7.1,26.06.2026,Blocked,M. Wisniewska,5
+RUN-2498,TC-SH-006,Shipping,1.7.1,2026-06-23,Blocked,A. Kowalska,
+RUN-2499,TC-CH-001,Checkout,1.7.2,02/07/2026,Skipped,P. Nowak,3
+RUN-2500,TC-CH-002,Checkout,1.7.2,04.07.2026,Passed,M. Wisniewska,20
+RUN-2501,TC-CH-003,Checkout,1.7.2,2026-07-05,Passed,D. Yanovskyi,15
+RUN-2502,TC-CH-004,Checkout,1.7.2,01/07/2026,Skipped,P. Nowak,12
+RUN-2503,TC-CH-005,Checkout,1.7.2,01.07.2026,Passed,P. Nowak,
+RUN-2504,TC-CA-001,cart,1.7.2,2026-07-01,Failed,J. Zielinski,
+RUN-2505,TC-CA-002,Cart,1.7.2,02/07/2026,Passed,J. Zielinski,20
+RUN-2506,TC-CA-003,CART,1.7.2,01.07.2026,Failed,A. Kowalska,12
+RUN-2507,TC-CA-004,  Cart ,1.7.2,2026-07-01,Blocked,M. Wisniewska,20
+RUN-2508,TC-CA-005,Cart,1.7.2,06/07/2026,Blocked,D. Yanovskyi,5
+RUN-2509,TC-CA-006,Cart,1.7.2,02.07.2026,Passed,D. Yanovskyi,20
+RUN-2510,TC-CA-007,Cart,1.7.2,2026-07-05,Blocked,J. Zielinski,25
+RUN-2511,TC-SE-001,search,1.7.2,07/07/2026,Passed,P. Nowak,25
+RUN-2512,TC-SE-002,Search,1.7.2,06.07.2026,Passed,A. Kowalska,15
+RUN-2513,TC-SE-003,Search,1.7.2,2026-07-05,Blocked,P. Nowak,15
+RUN-2514,TC-US-001,User Account,1.7.2,01/07/2026,Passed,P. Nowak,12
+RUN-2515,TC-US-002,User Account,1.7.2,07.07.2026,Failed,D. Yanovskyi,25
+RUN-2516,TC-US-003,User Account,1.7.2,2026-07-02,Skipped,M. Wisniewska,25
+RUN-2517,TC-US-004,USER ACCOUNT,1.7.2,05/07/2026,Skipped,A. Kowalska,25
+RUN-2518,TC-PR-001,product page,1.7.2,04.07.2026,Passed,A. Kowalska,20
+RUN-2519,TC-PR-002,Product Page,1.7.2,2026-07-05,Skipped,J. Zielinski,8
+RUN-2520,TC-PR-003,  Product Page ,1.7.2,05/07/2026,Passed,P. Nowak,20
+RUN-2521,TC-PR-004,Product Page,1.7.2,06.07.2026,Passed,A. Kowalska,8
+RUN-2522,TC-PR-005,Product Page,1.7.2,2026-07-04,Skipped,P. Nowak,25
+RUN-2523,TC-PR-006,Product Page,1.7.2,02/07/2026,Passed,A. Kowalska,15
+RUN-2524,TC-AD-001,Admin Panel,1.7.2,06.07.2026,Passed,D. Yanovskyi,3
+RUN-2525,TC-AD-002,admin panel,1.7.2,2026-07-07,Failed,P. Nowak,25
+RUN-2526,TC-AD-003,Admin Panel,1.7.2,04/07/2026,Skipped,P. Nowak,5
+RUN-2527,TC-AD-004,Admin Panel,1.7.2,01.07.2026,Failed,D. Yanovskyi,8
+RUN-2528,TC-PA-001,PAYMENTS,1.7.2,2026-07-03,Passed,A. Kowalska,12
+RUN-2529,TC-PA-002,Payments,1.7.2,06/07/2026,Blocked,J. Zielinski,12
+RUN-2530,TC-PA-003,Payments,1.7.2,07.07.2026,Skipped,P. Nowak,15
+RUN-2531,TC-PA-004,Payments,1.7.2,2026-07-05,Passed,J. Zielinski,20
+RUN-2532,TC-SH-001,shipping,1.7.2,05/07/2026,Skipped,M. Wisniewska,20
+RUN-2533,TC-SH-002,  Shipping ,1.7.2,07.07.2026,Passed,P. Nowak,5
+RUN-2534,TC-SH-003,Shipping,1.7.2,2026-07-05,Passed,D. Yanovskyi,5
+RUN-2535,TC-SH-004,Shipping,1.7.2,04/07/2026,Passed,A. Kowalska,25
+RUN-2536,TC-SH-005,Shipping,1.7.2,03.07.2026,Passed,M. Wisniewska,15
+RUN-2537,TC-SH-006,Shipping,1.7.2,2026-07-02,Passed,M. Wisniewska,
+RUN-2538,TC-SH-007,Shipping,1.7.2,02/07/2026,Passed,D. Yanovskyi,3
+RUN-2539,TC-SH-008,SHIPPING,1.7.2,01.07.2026,Failed,J. Zielinski,12
+RUN-2540,TC-CH-001,Checkout,1.8.0,2026-07-14,Passed,A. Kowalska,8
+RUN-2541,TC-CH-002,Checkout,1.8.0,12/07/2026,Blocked,M. Wisniewska,25
+RUN-2542,TC-CH-003,Checkout,1.8.0,18.07.2026,Blocked,M. Wisniewska,8
+RUN-2543,TC-CH-004,Checkout,1.8.0,2026-07-16,Skipped,P. Nowak,3
+RUN-2544,TC-CH-005,Checkout,1.8.0,17/07/2026,Skipped,A. Kowalska,
+RUN-2545,TC-CH-006,Checkout,1.8.0,12.07.2026,Blocked,M. Wisniewska,
+RUN-2546,TC-CH-007,checkout,1.8.0,2026-07-16,Passed,M. Wisniewska,15
+RUN-2547,TC-CH-008,Checkout,1.8.0,13/07/2026,Passed,P. Nowak,
+RUN-2548,TC-CA-001,Cart,1.8.0,13.07.2026,Passed,A. Kowalska,8
+RUN-2549,TC-CA-002,Cart,1.8.0,2026-07-14,Failed,M. Wisniewska,15
+RUN-2550,TC-CA-003,CART,1.8.0,13/07/2026,Failed,J. Zielinski,8
+RUN-2551,TC-CA-004,Cart,1.8.0,17.07.2026,Skipped,A. Kowalska,
+RUN-2552,TC-CA-005,Cart,1.8.0,2026-07-16,Passed,A. Kowalska,8
+RUN-2553,TC-CA-006,cart,1.8.0,17/07/2026,Passed,J. Zielinski,8
+RUN-2554,TC-SE-001,Search,1.8.0,14.07.2026,Passed,A. Kowalska,
+RUN-2555,TC-SE-002,Search,1.8.0,2026-07-14,Passed,A. Kowalska,
+RUN-2556,TC-SE-003,Search,1.8.0,14/07/2026,Skipped,D. Yanovskyi,20
+RUN-2557,TC-SE-004,Search,1.8.0,14.07.2026,Passed,P. Nowak,3
+RUN-2558,TC-SE-005,Search,1.8.0,2026-07-15,Passed,A. Kowalska,
+RUN-2559,TC-SE-006,  Search ,1.8.0,16/07/2026,Skipped,M. Wisniewska,3
+RUN-2560,TC-SE-007,search,1.8.0,17.07.2026,Passed,P. Nowak,
+RUN-2561,TC-SE-008,SEARCH,1.8.0,2026-07-18,Passed,D. Yanovskyi,3
+RUN-2562,TC-US-001,User Account,1.8.0,13/07/2026,Blocked,D. Yanovskyi,25
+RUN-2563,TC-US-002,User Account,1.8.0,18.07.2026,Blocked,A. Kowalska,20
+RUN-2564,TC-US-003,User Account,1.8.0,2026-07-16,Passed,P. Nowak,
+RUN-2565,TC-US-004,User Account,1.8.0,17/07/2026,Passed,M. Wisniewska,15
+RUN-2566,TC-US-005,User Account,1.8.0,14.07.2026,Passed,A. Kowalska,5
+RUN-2567,TC-US-006,user account,1.8.0,2026-07-18,Skipped,P. Nowak,15
+RUN-2568,TC-US-007,User Account,1.8.0,13/07/2026,Passed,D. Yanovskyi,8
+RUN-2569,TC-US-008,User Account,1.8.0,13.07.2026,Failed,M. Wisniewska,12
+RUN-2570,TC-PR-001,Product Page,1.8.0,2026-07-13,Failed,A. Kowalska,20
+RUN-2571,TC-PR-002,Product Page,1.8.0,13/07/2026,Skipped,P. Nowak,20
+RUN-2572,TC-PR-003,PRODUCT PAGE,1.8.0,14.07.2026,Passed,D. Yanovskyi,12
+RUN-2573,TC-PR-004,Product Page,1.8.0,2026-07-18,Passed,M. Wisniewska,5
+RUN-2574,TC-AD-001,admin panel,1.8.0,14/07/2026,Passed,P. Nowak,5
+RUN-2575,TC-AD-002,Admin Panel,1.8.0,17.07.2026,Failed,M. Wisniewska,3
+RUN-2576,TC-AD-003,Admin Panel,1.8.0,2026-07-16,Passed,P. Nowak,25
+RUN-2577,TC-AD-004,Admin Panel,1.8.0,12/07/2026,Passed,J. Zielinski,
+RUN-2578,TC-PA-001,Payments,1.8.0,16.07.2026,Failed,J. Zielinski,20
+RUN-2579,TC-PA-002,Payments,1.8.0,2026-07-13,Passed,D. Yanovskyi,15
+RUN-2580,TC-PA-003,Payments,1.8.0,16/07/2026,Blocked,A. Kowalska,15
+RUN-2581,TC-PA-004,payments,1.8.0,13.07.2026,Skipped,J. Zielinski,20
+RUN-2582,TC-PA-005,Payments,1.8.0,2026-07-18,Failed,J. Zielinski,
+RUN-2583,TC-SH-001,SHIPPING,1.8.0,13/07/2026,Failed,M. Wisniewska,25
+RUN-2584,TC-SH-002,Shipping,1.8.0,17.07.2026,Passed,P. Nowak,15
+RUN-2585,TC-SH-003,  Shipping ,1.8.0,2026-07-14,Skipped,A. Kowalska,25
+RUN-2586,TC-SH-004,Shipping,1.8.0,18/07/2026,Passed,A. Kowalska,20
+RUN-2587,TC-SH-005,Shipping,1.8.0,13.07.2026,Failed,P. Nowak,12
+RUN-2588,TC-SH-006,shipping,1.8.0,2026-07-18,Passed,D. Yanovskyi,8
+RUN-2589,TC-CH-001,Checkout,1.8.1,25/07/2026,Passed,D. Yanovskyi,8
+RUN-2590,TC-CH-002,Checkout,1.8.1,25.07.2026,Passed,J. Zielinski,8
+RUN-2591,TC-CH-003,Checkout,1.8.1,2026-07-26,Skipped,J. Zielinski,
+RUN-2592,TC-CA-001,Cart,1.8.1,26/07/2026,Passed,D. Yanovskyi,15
+RUN-2593,TC-CA-002,Cart,1.8.1,29.07.2026,Blocked,M. Wisniewska,8
+RUN-2594,TC-CA-003,CART,1.8.1,2026-07-26,Passed,D. Yanovskyi,3
+RUN-2595,TC-CA-004,cart,1.8.1,28/07/2026,Failed,J. Zielinski,3
+RUN-2596,TC-CA-005,Cart,1.8.1,29.07.2026,Blocked,M. Wisniewska,20
+RUN-2597,TC-CA-006,Cart,1.8.1,2026-07-27,Passed,J. Zielinski,
+RUN-2598,TC-CA-007,  Cart ,1.8.1,24/07/2026,Passed,P. Nowak,25
+RUN-2599,TC-SE-001,Search,1.8.1,27.07.2026,Failed,J. Zielinski,5
+RUN-2600,TC-SE-002,Search,1.8.1,2026-07-23,Passed,D. Yanovskyi,25
+RUN-2601,TC-SE-003,Search,1.8.1,26/07/2026,Passed,J. Zielinski,8
+RUN-2602,TC-SE-004,search,1.8.1,26.07.2026,Skipped,P. Nowak,
+RUN-2603,TC-SE-005,Search,1.8.1,2026-07-24,Passed,P. Nowak,3
+RUN-2604,TC-US-001,User Account,1.8.1,25/07/2026,Passed,A. Kowalska,5
+RUN-2605,TC-US-002,USER ACCOUNT,1.8.1,29.07.2026,Passed,P. Nowak,8
+RUN-2606,TC-US-003,User Account,1.8.1,2026-07-24,Passed,D. Yanovskyi,20
+RUN-2607,TC-US-004,User Account,1.8.1,27/07/2026,Passed,A. Kowalska,25
+RUN-2608,TC-US-005,User Account,1.8.1,27.07.2026,Failed,J. Zielinski,5
+RUN-2609,TC-PR-001,product page,1.8.1,2026-07-24,Blocked,D. Yanovskyi,15
+RUN-2610,TC-PR-002,Product Page,1.8.1,29/07/2026,Passed,P. Nowak,5
+RUN-2611,TC-PR-003,  Product Page ,1.8.1,23.07.2026,Passed,J. Zielinski,15
+RUN-2612,TC-PR-004,Product Page,1.8.1,2026-07-24,Passed,P. Nowak,8
+RUN-2613,TC-PR-005,Product Page,1.8.1,24/07/2026,Failed,A. Kowalska,3
+RUN-2614,TC-PR-006,Product Page,1.8.1,23.07.2026,Passed,D. Yanovskyi,15
+RUN-2615,TC-AD-001,Admin Panel,1.8.1,2026-07-24,Skipped,M. Wisniewska,8
+RUN-2616,TC-AD-002,ADMIN PANEL,1.8.1,24/07/2026,Failed,J. Zielinski,15
+RUN-2617,TC-AD-003,Admin Panel,1.8.1,27.07.2026,Passed,P. Nowak,8
+RUN-2618,TC-PA-001,Payments,1.8.1,2026-07-29,Passed,M. Wisniewska,5
+RUN-2619,TC-PA-002,Payments,1.8.1,29/07/2026,Passed,M. Wisniewska,12
+RUN-2620,TC-PA-003,Payments,1.8.1,28.07.2026,Blocked,M. Wisniewska,5
+RUN-2621,TC-PA-004,Payments,1.8.1,2026-07-28,Skipped,D. Yanovskyi,20
+RUN-2622,TC-SH-001,Shipping,1.8.1,24/07/2026,Blocked,J. Zielinski,5
+RUN-2623,TC-SH-002,shipping,1.8.1,26.07.2026,Skipped,M. Wisniewska,15
+RUN-2624,TC-SH-003,  Shipping ,1.8.1,2026-07-28,Failed,M. Wisniewska,15
+RUN-2625,TC-SH-004,Shipping,1.8.1,27/07/2026,Passed,M. Wisniewska,
+RUN-2626,TC-SH-005,Shipping,1.8.1,24.07.2026,Passed,J. Zielinski,20
+RUN-2627,TC-SH-006,SHIPPING,1.8.1,2026-07-29,Skipped,J. Zielinski,20
+RUN-2628,TC-SH-007,Shipping,1.8.1,26/07/2026,Blocked,P. Nowak,8
+RUN-2629,TC-CH-001,Checkout,1.8.2,03.08.2026,Passed,A. Kowalska,20
+RUN-2630,TC-CH-002,checkout,1.8.2,2026-08-08,Passed,P. Nowak,
+RUN-2631,TC-CH-003,Checkout,1.8.2,08/08/2026,Passed,D. Yanovskyi,12
+RUN-2632,TC-CH-004,Checkout,1.8.2,09.08.2026,Skipped,D. Yanovskyi,3
+RUN-2633,TC-CA-001,Cart,1.8.2,2026-08-05,Passed,P. Nowak,12
+RUN-2634,TC-CA-002,Cart,1.8.2,09/08/2026,Passed,D. Yanovskyi,20
+RUN-2635,TC-CA-003,Cart,1.8.2,06.08.2026,Passed,M. Wisniewska,
+RUN-2636,TC-CA-004,Cart,1.8.2,2026-08-08,Passed,J. Zielinski,12
+RUN-2637,TC-SE-001,search,1.8.2,08/08/2026,Skipped,M. Wisniewska,3
+RUN-2638,TC-SE-002,SEARCH,1.8.2,06.08.2026,Passed,D. Yanovskyi,
+RUN-2639,TC-SE-003,Search,1.8.2,2026-08-08,Passed,J. Zielinski,5
+RUN-2640,TC-SE-004,Search,1.8.2,08/08/2026,Passed,D. Yanovskyi,15
+RUN-2641,TC-SE-005,Search,1.8.2,06.08.2026,Passed,A. Kowalska,20
+RUN-2642,TC-SE-006,Search,1.8.2,2026-08-09,Passed,A. Kowalska,
+RUN-2643,TC-US-001,User Account,1.8.2,04/08/2026,Passed,D. Yanovskyi,8
+RUN-2644,TC-US-002,user account,1.8.2,04.08.2026,Passed,A. Kowalska,25
+RUN-2645,TC-US-003,User Account,1.8.2,2026-08-03,Passed,A. Kowalska,25
+RUN-2646,TC-US-004,User Account,1.8.2,07/08/2026,Passed,M. Wisniewska,8
+RUN-2647,TC-US-005,User Account,1.8.2,03.08.2026,Failed,D. Yanovskyi,15
+RUN-2648,TC-US-006,User Account,1.8.2,2026-08-03,Passed,J. Zielinski,25
+RUN-2649,TC-PR-001,PRODUCT PAGE,1.8.2,05/08/2026,Passed,D. Yanovskyi,8
+RUN-2650,TC-PR-002,  Product Page ,1.8.2,06.08.2026,Passed,J. Zielinski,5
+RUN-2651,TC-PR-003,product page,1.8.2,2026-08-05,Passed,A. Kowalska,5
+RUN-2652,TC-PR-004,Product Page,1.8.2,09/08/2026,Blocked,A. Kowalska,20
+RUN-2653,TC-PR-005,Product Page,1.8.2,07.08.2026,Blocked,M. Wisniewska,12
+RUN-2654,TC-PR-006,Product Page,1.8.2,2026-08-08,Passed,M. Wisniewska,15
+RUN-2655,TC-AD-001,Admin Panel,1.8.2,06/08/2026,Passed,M. Wisniewska,25
+RUN-2656,TC-AD-002,Admin Panel,1.8.2,09.08.2026,Passed,D. Yanovskyi,
+RUN-2657,TC-AD-003,Admin Panel,1.8.2,2026-08-08,Failed,A. Kowalska,8
+RUN-2658,TC-AD-004,admin panel,1.8.2,07/08/2026,Failed,D. Yanovskyi,5
+RUN-2659,TC-PA-001,Payments,1.8.2,06.08.2026,Skipped,M. Wisniewska,20
+RUN-2660,TC-PA-002,PAYMENTS,1.8.2,2026-08-04,Blocked,D. Yanovskyi,
+RUN-2661,TC-PA-003,Payments,1.8.2,09/08/2026,Blocked,M. Wisniewska,15
+RUN-2662,TC-PA-004,Payments,1.8.2,04.08.2026,Passed,J. Zielinski,
+RUN-2663,TC-PA-005,  Payments ,1.8.2,2026-08-09,Passed,J. Zielinski,20
+RUN-2664,TC-PA-006,Payments,1.8.2,08/08/2026,Passed,D. Yanovskyi,12
+RUN-2665,TC-PA-007,payments,1.8.2,05.08.2026,Failed,P. Nowak,
+RUN-2666,TC-PA-008,Payments,1.8.2,2026-08-08,Passed,P. Nowak,25
+RUN-2667,TC-SH-001,Shipping,1.8.2,09/08/2026,Passed,D. Yanovskyi,5
+RUN-2668,TC-SH-002,Shipping,1.8.2,04.08.2026,Passed,M. Wisniewska,25
+RUN-2669,TC-SH-003,Shipping,1.8.2,2026-08-03,Passed,M. Wisniewska,25
+RUN-2670,TC-SH-004,Shipping,1.8.2,09/08/2026,Passed,J. Zielinski,12
+RUN-2671,TC-CH-001,CHECKOUT,1.9.0,15.08.2026,Skipped,A. Kowalska,25
+RUN-2672,TC-CH-002,checkout,1.9.0,2026-08-15,Passed,M. Wisniewska,12
+RUN-2673,TC-CH-003,Checkout,1.9.0,20/08/2026,Passed,J. Zielinski,8
+RUN-2674,TC-CH-004,Checkout,1.9.0,15.08.2026,Passed,P. Nowak,8
+RUN-2675,TC-CH-005,Checkout,1.9.0,2026-08-18,Failed,D. Yanovskyi,15
+RUN-2676,TC-CH-006,  Checkout ,1.9.0,19/08/2026,Skipped,J. Zielinski,15
+RUN-2677,TC-CH-007,Checkout,1.9.0,14.08.2026,Blocked,J. Zielinski,
+RUN-2678,TC-CA-001,Cart,1.9.0,2026-08-17,Blocked,P. Nowak,12
+RUN-2679,TC-CA-002,cart,1.9.0,17/08/2026,Passed,P. Nowak,15
+RUN-2680,TC-CA-003,Cart,1.9.0,17.08.2026,Blocked,M. Wisniewska,20
+RUN-2681,TC-SE-001,Search,1.9.0,2026-08-16,Failed,M. Wisniewska,
+RUN-2682,TC-SE-002,SEARCH,1.9.0,18/08/2026,Skipped,J. Zielinski,3
+RUN-2683,TC-SE-003,Search,1.9.0,15.08.2026,Passed,A. Kowalska,
+RUN-2684,TC-SE-004,Search,1.9.0,2026-08-17,Blocked,A. Kowalska,3
+RUN-2685,TC-SE-005,Search,1.9.0,18/08/2026,Passed,P. Nowak,20
+RUN-2686,TC-SE-006,search,1.9.0,20.08.2026,Failed,P. Nowak,3
+RUN-2687,TC-SE-007,Search,1.9.0,2026-08-14,Blocked,A. Kowalska,
+RUN-2688,TC-SE-008,Search,1.9.0,16/08/2026,Blocked,A. Kowalska,3
+RUN-2689,TC-US-001,  User Account ,1.9.0,15.08.2026,Failed,A. Kowalska,8
+RUN-2690,TC-US-002,User Account,1.9.0,2026-08-15,Blocked,A. Kowalska,8
+RUN-2691,TC-US-003,User Account,1.9.0,17/08/2026,Blocked,P. Nowak,
+RUN-2692,TC-PR-001,Product Page,1.9.0,19.08.2026,Failed,J. Zielinski,25
+RUN-2693,TC-PR-002,PRODUCT PAGE,1.9.0,2026-08-16,Skipped,M. Wisniewska,5
+RUN-2694,TC-PR-003,Product Page,1.9.0,18/08/2026,Skipped,P. Nowak,8
+RUN-2695,TC-PR-004,Product Page,1.9.0,18.08.2026,Passed,A. Kowalska,5
+RUN-2696,TC-PR-005,Product Page,1.9.0,2026-08-14,Passed,M. Wisniewska,5
+RUN-2697,TC-PR-006,Product Page,1.9.0,20/08/2026,Failed,P. Nowak,8
+RUN-2698,TC-PR-007,Product Page,1.9.0,14.08.2026,Failed,D. Yanovskyi,20
+RUN-2699,TC-PR-008,Product Page,1.9.0,2026-08-20,Passed,P. Nowak,25
+RUN-2700,TC-AD-001,admin panel,1.9.0,14/08/2026,Passed,P. Nowak,12
+RUN-2701,TC-AD-002,Admin Panel,1.9.0,16.08.2026,Skipped,M. Wisniewska,20
+RUN-2702,TC-AD-003,  Admin Panel ,1.9.0,2026-08-16,Passed,J. Zielinski,20
+RUN-2703,TC-AD-004,Admin Panel,1.9.0,19/08/2026,Failed,A. Kowalska,5
+RUN-2704,TC-AD-005,ADMIN PANEL,1.9.0,16.08.2026,Skipped,D. Yanovskyi,12
+RUN-2705,TC-AD-006,Admin Panel,1.9.0,2026-08-16,Skipped,D. Yanovskyi,25
+RUN-2706,TC-AD-007,Admin Panel,1.9.0,17/08/2026,Passed,P. Nowak,3
+RUN-2707,TC-PA-001,payments,1.9.0,15.08.2026,Passed,D. Yanovskyi,25
+RUN-2708,TC-PA-002,Payments,1.9.0,2026-08-17,Passed,M. Wisniewska,
+RUN-2709,TC-PA-003,Payments,1.9.0,18/08/2026,Skipped,D. Yanovskyi,15
+RUN-2710,TC-PA-004,Payments,1.9.0,17.08.2026,Passed,P. Nowak,15
+RUN-2711,TC-PA-005,Payments,1.9.0,2026-08-19,Failed,J. Zielinski,20
+RUN-2712,TC-PA-006,Payments,1.9.0,16/08/2026,Passed,P. Nowak,3
+RUN-2713,TC-SH-001,Shipping,1.9.0,18.08.2026,Failed,J. Zielinski,
+RUN-2714,TC-SH-002,shipping,1.9.0,2026-08-18,Blocked,P. Nowak,20
+RUN-2715,TC-SH-003,SHIPPING,1.9.0,15/08/2026,Failed,J. Zielinski,20
+RUN-2716,TC-CH-001,Checkout,1.9.1,28.08.2026,Blocked,J. Zielinski,25
+RUN-2717,TC-CH-002,Checkout,1.9.1,2026-08-25,Passed,M. Wisniewska,3
+RUN-2718,TC-CH-003,Checkout,1.9.1,31/08/2026,Passed,J. Zielinski,5
+RUN-2719,TC-CH-004,Checkout,1.9.1,30.08.2026,Passed,A. Kowalska,
+RUN-2720,TC-CH-005,Checkout,1.9.1,2026-08-28,Passed,M. Wisniewska,5
+RUN-2721,TC-CA-001,cart,1.9.1,30/08/2026,Failed,M. Wisniewska,15
+RUN-2722,TC-CA-002,Cart,1.9.1,27.08.2026,Skipped,P. Nowak,3
+RUN-2723,TC-CA-003,Cart,1.9.1,2026-08-25,Skipped,A. Kowalska,8
+RUN-2724,TC-SE-001,Search,1.9.1,26/08/2026,Passed,J. Zielinski,3
+RUN-2725,TC-SE-002,Search,1.9.1,26.08.2026,Passed,D. Yanovskyi,12
+RUN-2726,TC-SE-003,SEARCH,1.9.1,2026-08-31,Passed,D. Yanovskyi,25
+RUN-2727,TC-SE-004,Search,1.9.1,29/08/2026,Skipped,D. Yanovskyi,15
+RUN-2728,TC-SE-005,search,1.9.1,26.08.2026,Skipped,D. Yanovskyi,
+RUN-2729,TC-SE-006,Search,1.9.1,2026-08-31,Passed,D. Yanovskyi,5
+RUN-2730,TC-SE-007,Search,1.9.1,28/08/2026,Skipped,J. Zielinski,3
+RUN-2731,TC-SE-008,Search,1.9.1,27.08.2026,Passed,M. Wisniewska,25
+RUN-2732,TC-US-001,User Account,1.9.1,2026-08-26,Failed,J. Zielinski,
+RUN-2733,TC-US-002,User Account,1.9.1,26/08/2026,Skipped,M. Wisniewska,25
+RUN-2734,TC-US-003,User Account,1.9.1,26.08.2026,Passed,J. Zielinski,5
+RUN-2735,TC-PR-001,product page,1.9.1,2026-08-25,Passed,M. Wisniewska,20
+RUN-2736,TC-PR-002,Product Page,1.9.1,28/08/2026,Passed,M. Wisniewska,25
+RUN-2737,TC-PR-003,PRODUCT PAGE,1.9.1,31.08.2026,Passed,P. Nowak,12
+RUN-2738,TC-PR-004,Product Page,1.9.1,2026-08-26,Passed,M. Wisniewska,15
+RUN-2739,TC-PR-005,Product Page,1.9.1,30/08/2026,Passed,J. Zielinski,15
+RUN-2740,TC-PR-006,Product Page,1.9.1,28.08.2026,Passed,J. Zielinski,8
+RUN-2741,TC-AD-001,  Admin Panel ,1.9.1,2026-08-31,Blocked,A. Kowalska,
+RUN-2742,TC-AD-002,admin panel,1.9.1,30/08/2026,Passed,D. Yanovskyi,15
+RUN-2743,TC-AD-003,Admin Panel,1.9.1,29.08.2026,Skipped,A. Kowalska,8
+RUN-2744,TC-AD-004,Admin Panel,1.9.1,2026-08-27,Skipped,P. Nowak,20
+RUN-2745,TC-AD-005,Admin Panel,1.9.1,29/08/2026,Failed,D. Yanovskyi,5
+RUN-2746,TC-AD-006,Admin Panel,1.9.1,30.08.2026,Skipped,A. Kowalska,25
+RUN-2747,TC-PA-001,Payments,1.9.1,2026-08-31,Skipped,A. Kowalska,20
+RUN-2748,TC-PA-002,PAYMENTS,1.9.1,25/08/2026,Passed,J. Zielinski,25
+RUN-2749,TC-PA-003,payments,1.9.1,30.08.2026,Passed,M. Wisniewska,15
+RUN-2750,TC-PA-004,Payments,1.9.1,2026-08-30,Passed,A. Kowalska,12
+RUN-2751,TC-PA-005,Payments,1.9.1,27/08/2026,Passed,D. Yanovskyi,25
+RUN-2752,TC-PA-006,Payments,1.9.1,29.08.2026,Passed,M. Wisniewska,5
+RUN-2753,TC-PA-007,Payments,1.9.1,2026-08-31,Blocked,J. Zielinski,3
+RUN-2754,TC-SH-001,  Shipping ,1.9.1,26/08/2026,Blocked,A. Kowalska,20
+RUN-2755,TC-SH-002,Shipping,1.9.1,27.08.2026,Passed,J. Zielinski,5
+RUN-2756,TC-SH-003,shipping,1.9.1,2026-08-29,Passed,A. Kowalska,12
+RUN-2757,TC-SH-004,Shipping,1.9.1,30/08/2026,Passed,P. Nowak,5
+RUN-2758,TC-SH-005,Shipping,1.9.1,25.08.2026,Failed,D. Yanovskyi,12
+RUN-2759,TC-CH-001,CHECKOUT,1.9.2,2026-09-10,Blocked,D. Yanovskyi,12
+RUN-2760,TC-CH-002,Checkout,1.9.2,05/09/2026,Passed,P. Nowak,25
+RUN-2761,TC-CH-003,Checkout,1.9.2,10.09.2026,Passed,D. Yanovskyi,15
+RUN-2762,TC-CA-001,Cart,1.9.2,2026-09-08,Passed,A. Kowalska,5
+RUN-2763,TC-CA-002,cart,1.9.2,11/09/2026,Skipped,M. Wisniewska,
+RUN-2764,TC-CA-003,Cart,1.9.2,05.09.2026,Skipped,J. Zielinski,25
+RUN-2765,TC-CA-004,Cart,1.9.2,2026-09-07,Skipped,A. Kowalska,8
+RUN-2766,TC-SE-001,Search,1.9.2,10/09/2026,Passed,P. Nowak,15
+RUN-2767,TC-SE-002,  Search ,1.9.2,06.09.2026,Passed,D. Yanovskyi,12
+RUN-2768,TC-SE-003,Search,1.9.2,2026-09-10,Passed,P. Nowak,
+RUN-2769,TC-SE-004,Search,1.9.2,11/09/2026,Passed,D. Yanovskyi,
+RUN-2770,TC-SE-005,SEARCH,1.9.2,06.09.2026,Blocked,J. Zielinski,25
+RUN-2771,TC-US-001,User Account,1.9.2,2026-09-10,Passed,A. Kowalska,20
+RUN-2772,TC-US-002,User Account,1.9.2,11/09/2026,Skipped,A. Kowalska,12
+RUN-2773,TC-US-003,User Account,1.9.2,05.09.2026,Blocked,J. Zielinski,8
+RUN-2774,TC-US-004,User Account,1.9.2,2026-09-07,Passed,P. Nowak,12
+RUN-2775,TC-US-005,User Account,1.9.2,10/09/2026,Passed,A. Kowalska,
+RUN-2776,TC-US-006,User Account,1.9.2,06.09.2026,Passed,J. Zielinski,
+RUN-2777,TC-US-007,user account,1.9.2,2026-09-08,Blocked,P. Nowak,25
+RUN-2778,TC-PR-001,Product Page,1.9.2,11/09/2026,Passed,A. Kowalska,5
+RUN-2779,TC-PR-002,Product Page,1.9.2,10.09.2026,Blocked,M. Wisniewska,5
+RUN-2780,TC-PR-003,  Product Page ,1.9.2,2026-09-10,Failed,P. Nowak,15
+RUN-2781,TC-PR-004,PRODUCT PAGE,1.9.2,11/09/2026,Skipped,P. Nowak,12
+RUN-2782,TC-PR-005,Product Page,1.9.2,05.09.2026,Passed,P. Nowak,3
+RUN-2783,TC-AD-001,Admin Panel,1.9.2,2026-09-06,Passed,P. Nowak,
+RUN-2784,TC-AD-002,admin panel,1.9.2,08/09/2026,Failed,A. Kowalska,5
+RUN-2785,TC-AD-003,Admin Panel,1.9.2,11.09.2026,Passed,D. Yanovskyi,25
+RUN-2786,TC-PA-001,Payments,1.9.2,2026-09-07,Passed,A. Kowalska,3
+RUN-2787,TC-PA-002,Payments,1.9.2,07/09/2026,Passed,A. Kowalska,20
+RUN-2788,TC-PA-003,Payments,1.9.2,06.09.2026,Failed,A. Kowalska,25
+RUN-2789,TC-PA-004,Payments,1.9.2,2026-09-10,Blocked,A. Kowalska,3
+RUN-2790,TC-SH-001,Shipping,1.9.2,09/09/2026,Failed,A. Kowalska,12
+RUN-2791,TC-SH-002,shipping,1.9.2,07.09.2026,Passed,D. Yanovskyi,25
+RUN-2792,TC-SH-003,SHIPPING,1.9.2,2026-09-10,Failed,P. Nowak,
+RUN-2793,TC-SH-004,  Shipping ,1.9.2,07/09/2026,Passed,A. Kowalska,12
+RUN-2794,TC-SH-005,Shipping,1.9.2,08.09.2026,Failed,D. Yanovskyi,8
