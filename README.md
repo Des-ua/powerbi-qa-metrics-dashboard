@@ -7,6 +7,8 @@ e-commerce project (the same domain as my OpenCart testing project).
 export, including the mess a real export usually contains. The analysis, the
 cleaning decisions and the report are my own work.
 
+![QA metrics dashboard](dashboard.jpg)
+
 ---
 
 ## Files
@@ -115,3 +117,4 @@ build.
 ## Tools
 
 Power BI Desktop, Power Query (M), DAX.
+
